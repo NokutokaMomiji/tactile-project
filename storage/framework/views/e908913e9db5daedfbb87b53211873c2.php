@@ -1,0 +1,1 @@
+components.buttons.primary<?php /**PATH /Users/marc/Code/scratch/storage/framework/views/16f86d73a6070f8c8384fe0c678e790e.blade.php ENDPATH**/ ?>

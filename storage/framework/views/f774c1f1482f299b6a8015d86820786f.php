@@ -1,0 +1,1 @@
+components.icons.share<?php /**PATH /Users/orioltriguero/code/scratch/storage/framework/views/83c0bed47ae6d19627146ab11a9d9c53.blade.php ENDPATH**/ ?>

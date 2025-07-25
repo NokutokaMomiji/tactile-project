@@ -1,0 +1,1042 @@
+{
+    "<div>CREDITS:<br>Created by Scratch Jr Tactile team.<\/div><div><br><\/div>": {
+        "ca": "<div>Crèdits:<br> Creat per Scratch Jr Tactile Team.<\/div><div><br><\/div>",
+        "es": "<div>Créditos:<br> Creado por Scratch JR Tactile Team.<\/div><div><br><\/div>",
+        "en": "<div>CREDITS:<br>Created by Scratch Jr Tactile team.<\/div><div><br><\/div>",
+        "pl": "<div>Kredyty:<br> Stworzony przez drużynę dotykową JR JR.<\/div><div><br><\/div>",
+        "el": "<div>Πιστώσεις:<br> Δημιουργήθηκε από την ομάδα αφής JR.<\/div><div><br><\/div>"
+    },
+    "<div>L’alumnat del batxillerat tecnològic té assolides moltes de les habilitats associades al pensament computacional. En cursos anteriors han treballat les bases del pensament computacional i han pogut provar i utilitzar diferents tecnologies digitals que els han permès desenvolupar aquestes habilitats.<br>No obstant, hi ha un col·lectiu que té més dificultats per assolir aquest repte. Els infants i adolescents amb problemes visuals, cognitius i motrius també han d’adquirir aquestes habilitats per integrar-se en una societat tan tecnològica com la del segle XXI.<br>Hi ha diferents iniciatives que ajuden a aquest grup d’infants i adolescents amb necessitats especials. Però a l’alumnat del batxillerat tecnològic, com a futurs enginyers, se’ls demana que utilitzin la intel·ligència artificial com a eina de suport per treballar amb una d’aquestes iniciatives. <br>En descarregar el fitxer, trobaràs els dissenys dels blocs, el codi per a llegir els blocs amb IA (s'ha d'obrir des de <a target=\"_blank\" href=\"https:\/\/machinelearningforkids.co.uk\/scratch\/),\">https:\/\/machinelearningforkids.co.uk\/scratch\/),<\/a>les competències d'aquest projecte i una guia d'implementació del projecte.<\/div><div><br><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 04: Quality Education, GOAL 10: Reduced Inequalities<\/div><div><br><strong>NOTES &amp; CREDITS<\/strong><\/div><div>Projecte creat per Jordi Gavaldà Bernal, mestre a la Salle Tarragona.<br><br><br><strong>CONTENIDO COMPLETO:<\/strong><br>https:\/\/mschools.com\/es\/ia-para-la-inclusion-en-el-aprendizaje-del-pensamiento-computacional\/<br><br><br><br><br><\/div><h1><strong>PROPUESTA<\/strong><\/h1><div><strong>¿Cómo puede la inteligencia artificial ayudar al alumnado con necesidades especiales en sus primeros pasos para adquirir las habilidades del pensamiento computacional?<br><\/strong><br>&nbsp;Temporización&nbsp;<\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/timing\/10-sesiones\/\">10 sesiones<\/a><\/div><div><br><\/div><div>&nbsp;Edad&nbsp;<\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/level\/13-15-anos\/\">13-15 años<\/a><\/div><div><br><\/div><div>&nbsp;Metodología&nbsp;<\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-basado-en-proyectos-abp\/\">Aprendizaje basado en proyectos (ABP)<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-basado-en-retos\/\">Aprendizaje basado en retos<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-basado-en-retos-aprendizaje-servicio-aps\/\">Aprendizaje basado en retos Aprendizaje Servicio (ApS)<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/design-thinking-es\/\">Design Thinking<\/a><\/div><div><br><\/div><div>&nbsp;Habilidades trabajadas&nbsp;<\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/creatividad\/\">Creatividad<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/habilidades-de-comunicacion\/\">Habilidades de comunicación<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/liderazgo-emprendeduria\/\">Liderazgo \/ emprendeduría<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/pensamiento-computacional\/\">Pensamiento computacional<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/pensamiento-critico\/\">Pensamiento crítico<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/resolucion-de-problemas\/\">Resolución de problemas<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/trabajo-en-equipo\/\">Trabajo en equipo<\/a><\/div><div><br><\/div><div>&nbsp;Tecnología utilizada&nbsp;<\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/technology-used\/digitales-robotica-y-programacion\/\">Digitales Robótica y programación<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/technology-used\/inteligencia-artificial\/\">Inteligencia Artificial<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/technology-used\/recursos-y-herramientas\/\">Recursos y Herramientas<\/a><br><br><\/div><h1>Contexto<\/h1><div>Varias iniciativas educativas están dirigidas a niños y adolescentes con dificultades visuales, cognitivas o motrices, ofreciéndoles oportunidades para desarrollar el pensamiento computacional. Una de estas iniciativas es Scratch Jr. Tactile, que puede mejorar su potencial de aprendizaje con la ayuda de la inteligencia artificial. A través de este proyecto se ha desarrollado una aplicación para identificar las piezas del juego y proporcionar instrucciones por voz y texto, favoreciendo la inclusión digital y accesibilidad para todos los alumnos.<br><br><\/div><div>Destacamos...<br><br><\/div><div>Por lo general, el alumnado adopta el rol de usuario de tecnologías digitales y aplicaciones en su proceso de aprendizaje. En este caso, los estudiantes de bachillerato tecnológico han sido los encargados de diseñar una aplicación para adaptarla a la diversidad del alumnado con discapacidades, ampliando así sus habilidades en pensamiento computacional y uso de tecnologías digitales, al mismo tiempo que enfrentaban retos reales y de compromiso social.<\/div><div>&nbsp;<\/div><div>El término inclusión es uno de los más importantes en referencia a la acogida de alumnado de distintos perfiles en una misma aula. Sin embargo, rara vez se habla de la inclusión digital donde hay que adaptar la tecnología para que sea útil y accesible a todo el alumnado.<\/div><div>&nbsp;<\/div><div>Este proyecto es ideal para que el alumnado utilice el pensamiento crítico y aproveche las habilidades del pensamiento computacional para desarrollar la aplicación. Entre las más importantes destacan la abstracción y la descomposición, la identificación de patrones, el pensamiento algorítmico, la depuración de errores...<\/div><div>&nbsp;<figure data-trix-attachment=\"{&quot;contentType&quot;:&quot;image&quot;,&quot;height&quot;:1500,&quot;url&quot;:&quot;https:\/\/mschools.com\/wp-content\/uploads\/premsi-FIETcat.jpg&quot;,&quot;width&quot;:2000}\" data-trix-content-type=\"image\" class=\"attachment attachment--preview\"><img src=\"https:\/\/mschools.com\/wp-content\/uploads\/premsi-FIETcat.jpg\" width=\"2000\" height=\"1500\"><figcaption class=\"attachment__caption\"><\/figcaption><\/figure><\/div><h1>Objetivos<\/h1><div><strong>Cooperar y compartir con los compañeros y compañeras tecnologías digitales y estrategias del pensamiento computacional<br><\/strong>Para dar una respuesta conjunta a un problema que afecta a un colectivo de alumnado con discapacidad.<\/div><div><br><strong>Estudiar y aplicar distintas tecnologías digitales basadas en la inteligencia artificial<\/strong><\/div><div>Para entrenar a modelos capaces de dar soluciones a una necesidad.<br><br><\/div><div><strong>Diseñar una aplicación con elementos de programación gráfica<\/strong><\/div><div>Para identificar las piezas de Scratch Jr. Tactile que utiliza, en su proceso de aprendizaje, el alumnado con necesidades especiales.<br><br><br>Leer más: <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/ia-para-la-inclusion-en-el-aprendizaje-del-pensamiento-computacional\/\">https:\/\/mschools.com\/es\/ia-para-la-inclusion-en-el-aprendizaje-del-pensamiento-computacional\/<\/a><\/div><div><br><\/div><div><br><\/div><div><br><\/div>": {
+        "ca": "<div>L’alumnat del batxillerat tecnològic té assolides moltes de les habilitats associades al pensament computacional. En cursos anteriors han treballat les bases del pensament computacional i han pogut provar i utilitzar diferents tecnologies digitals que els han permès desenvolupar aquestes habilitats.<br>No obstant, hi ha un col·lectiu que té més dificultats per assolir aquest repte. Els infants i adolescents amb problemes visuals, cognitius i motrius també han d’adquirir aquestes habilitats per integrar-se en una societat tan tecnològica com la del segle XXI.<br>Hi ha diferents iniciatives que ajuden a aquest grup d’infants i adolescents amb necessitats especials. Però a l’alumnat del batxillerat tecnològic, com a futurs enginyers, se’ls demana que utilitzin la intel·ligència artificial com a eina de suport per treballar amb una d’aquestes iniciatives. <br>En descarregar el fitxer, trobaràs els dissenys dels blocs, el codi per a llegir els blocs amb IA (s'ha d'obrir des de <a target=\"_blank\" href=\"https:\/\/machinelearningforkids.co.uk\/scratch\/),\">https:\/\/machinelearningforkids.co.uk\/scratch\/),<\/a>les competències d'aquest projecte i una guia d'implementació del projecte.<\/div><div><br><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 04: Quality Education, GOAL 10: Reduced Inequalities<\/div><div><br><strong>NOTES & CREDITS<\/strong><\/div><div>Projecte creat per Jordi Gavaldà Bernal, mestre a la Salle Tarragona.<br><br><br><strong>CONTENIDO COMPLETO:<\/strong><br>https:\/\/mschools.com\/es\/ia-para-la-inclusion-en-el-aprendizaje-del-pensamiento-computacional\/<br><br><br><br><br><\/div><h1><strong>PROPUESTA<\/strong><\/h1><div><strong>¿Cómo puede la inteligencia artificial ayudar al alumnado con necesidades especiales en sus primeros pasos para adquirir las habilidades del pensamiento computacional?<br><\/strong><br> Temporización <\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/timing\/10-sesiones\/\">10 sesiones<\/a><\/div><div><br><\/div><div> Edad <\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/level\/13-15-anos\/\">13-15 años<\/a><\/div><div><br><\/div><div> Metodología <\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-basado-en-proyectos-abp\/\">Aprendizaje basado en proyectos (ABP)<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-basado-en-retos\/\">Aprendizaje basado en retos<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-basado-en-retos-aprendizaje-servicio-aps\/\">Aprendizaje basado en retos Aprendizaje Servicio (ApS)<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/design-thinking-es\/\">Design Thinking<\/a><\/div><div><br><\/div><div> Habilidades trabajadas <\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/creatividad\/\">Creatividad<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/habilidades-de-comunicacion\/\">Habilidades de comunicación<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/liderazgo-emprendeduria\/\">Liderazgo \/ emprendeduría<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/pensamiento-computacional\/\">Pensamiento computacional<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/pensamiento-critico\/\">Pensamiento crítico<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/resolucion-de-problemas\/\">Resolución de problemas<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/trabajo-en-equipo\/\">Trabajo en equipo<\/a><\/div><div><br><\/div><div> Tecnología utilizada <\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/technology-used\/digitales-robotica-y-programacion\/\">Digitales Robótica y programación<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/technology-used\/inteligencia-artificial\/\">Inteligencia Artificial<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/technology-used\/recursos-y-herramientas\/\">Recursos y Herramientas<\/a><br><br><\/div><h1>Contexto<\/h1><div>Varias iniciativas educativas están dirigidas a niños y adolescentes con dificultades visuales, cognitivas o motrices, ofreciéndoles oportunidades para desarrollar el pensamiento computacional. Una de estas iniciativas es Scratch Jr. Tactile, que puede mejorar su potencial de aprendizaje con la ayuda de la inteligencia artificial. A través de este proyecto se ha desarrollado una aplicación para identificar las piezas del juego y proporcionar instrucciones por voz y texto, favoreciendo la inclusión digital y accesibilidad para todos los alumnos.<br><br><\/div><div>Destacamos...<br><br><\/div><div>Por lo general, el alumnado adopta el rol de usuario de tecnologías digitales y aplicaciones en su proceso de aprendizaje. En este caso, los estudiantes de bachillerato tecnológico han sido los encargados de diseñar una aplicación para adaptarla a la diversidad del alumnado con discapacidades, ampliando así sus habilidades en pensamiento computacional y uso de tecnologías digitales, al mismo tiempo que enfrentaban retos reales y de compromiso social.<\/div><div> <\/div><div>El término inclusión es uno de los más importantes en referencia a la acogida de alumnado de distintos perfiles en una misma aula. Sin embargo, rara vez se habla de la inclusión digital donde hay que adaptar la tecnología para que sea útil y accesible a todo el alumnado.<\/div><div> <\/div><div>Este proyecto es ideal para que el alumnado utilice el pensamiento crítico y aproveche las habilidades del pensamiento computacional para desarrollar la aplicación. Entre las más importantes destacan la abstracción y la descomposición, la identificación de patrones, el pensamiento algorítmico, la depuración de errores...<\/div><div> <figure data-trix-attachment=\"{\"contentType\":\"image\",\"height\":1500,\"url\":\"https:\/\/mschools.com\/wp-content\/uploads\/premsi-FIETcat.jpg\",\"width\":2000}\" data-trix-content-type=\"image\" class=\"attachment attachment--preview\"><img src=\"https:\/\/mschools.com\/wp-content\/uploads\/premsi-FIETcat.jpg\" width=\"2000\" height=\"1500\"><figcaption class=\"attachment__caption\"><\/figcaption><\/figure><\/div><h1>Objetivos<\/h1><div><strong>Cooperar y compartir con los compañeros y compañeras tecnologías digitales y estrategias del pensamiento computacional<br><\/strong>Para dar una respuesta conjunta a un problema que afecta a un colectivo de alumnado con discapacidad.<\/div><div><br><strong>Estudiar y aplicar distintas tecnologías digitales basadas en la inteligencia artificial<\/strong><\/div><div>Para entrenar a modelos capaces de dar soluciones a una necesidad.<br><br><\/div><div><strong>Diseñar una aplicación con elementos de programación gráfica<\/strong><\/div><div>Para identificar las piezas de Scratch Jr. Tactile que utiliza, en su proceso de aprendizaje, el alumnado con necesidades especiales.<br><br><br>Leer más: <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/ia-para-la-inclusion-en-el-aprendizaje-del-pensamiento-computacional\/\">https:\/\/mschools.com\/es\/ia-para-la-inclusion-en-el-aprendizaje-del-pensamiento-computacional\/<\/a><\/div><div><br><\/div><div><br><\/div><div><br><\/div>",
+        "en": "<div>Students in the technological baccalaureate have many of the skills associated with computational thinking. In previous courses they have worked on the bases of computational thinking and have been able to test and use different digital technologies that have allowed them to develop these skills.<br> However, there is a group that has more difficulty in achieving this challenge. Children and adolescents with visual, cognitive and motor problems also need to acquire these skills to integrate into a society as technological as the 21st century.<br> There are different initiatives that help this group of children and adolescents with special needs. But technological high school students, as future engineers, are asked to use artificial intelligence as a support tool to work with one of these initiatives.<br> When downloading the file, you will find the designs of the blogs, the code to read the blogs with Ia (it must be opened from <a target=\"_blank\" href=\"https:\/\/machinelearningforkids.co.uk\/scratch\/),\">https:\/\/machinelearningforkids.co.uk\/scratch\/),<\/a> the powers of this project and a guide to implementation of the project.<\/div><div><br> <strong>Global Goal\/s<\/strong><\/div><div> Goal 04: Quality Education, Goal 10: Reduced Uninqualities<\/div><div><br> <strong>Notes & credits<\/strong><\/div><div> Project created by Jordi Gavaldà Bernal, teacher at La Salle Tarragona.<br><br><br> <strong>Complete container:<\/strong><br> https:\/\/mschool<br><br><br><br><br><\/div><h1> <strong>Proposal<\/strong><\/h1><div> <strong>Do you how do the artificial intelligence go to the student with special necessities in their first steps to acquire the qualifications of computational thinking?<br><\/strong><br> Temporary<\/div><div> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/timing\/10-sesiones\/\">10 Sesiones<\/a><\/div><div><br><\/div><div> Age<\/div><div> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/level\/13-15-anos\/\">13-15 years<\/a><\/div><div><br><\/div><div> Methodology<\/div><div> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-basado-en-proyectos-abp\/\">Learnje based on projectos (ABP)<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-basado-en-retos\/\">Learn -based based on<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-basado-en-retos-aprendizaje-servicio-aps\/\">learns learned based on delays learned service (APS)<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/design-thinking-es\/\">Design Thinking<\/a><\/div><div><br><\/div><div> Enabled workers<\/div><div> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/creatividad\/\">Creativity<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/habilidades-de-comunicacion\/\">enabled Communication<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/liderazgo-emprendeduria\/\">Liderazgo \/ Emprendeduría<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/pensamiento-computacional\/\">Pensamiento Computational<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/pensamiento-critico\/\">Thinking Critical<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/resolucion-de-problemas\/\">Resolution of Problems<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/trabajo-en-equipo\/\">Work on Equipo<\/a><\/div><div><br><\/div><div> Technology used<\/div><div> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/technology-used\/digitales-robotica-y-programacion\/\">Digitales Robotica and Programming<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/technology-used\/inteligencia-artificial\/\">Artificial Intelligence<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/technology-used\/recursos-y-herramientas\/\">Resources and Herramientas<\/a><br><br><\/div><h1> Context<\/h1><div> Various educational initiatives are directed to children and adolescents with visual, cognitive or motorcycle difficulties, the opportunity offers to develop the computational thinking. One of these initiatives is Scratch Jr. Tactile, which has to make its full potential of learning with the ayuda of artificial intelligence. Through this project an application has been developed to identify the pieces of the game and to provide instructional voz and text, favorite of digital inclusion and accessibility for all students.<br><br><\/div><div> We highlight ...<br><br><\/div><div> In general, the student takes the role of user of digitales and applications in his process of learning. In this case, the students of Technological Bachillerato have been in charge of dismissing an application to adapt it to the diversity of the student with disabilities, extension so their enabled in computational thinking and use of digitales technologies, at the same time that enhances reality and social commitments.<\/div><div><\/div><div> The inclusion was one of the most important in reference to the student of students of different profiles in a same classroom. No matter, rare vezing of the digital inclusion where you have to adapt the technology for the useful and accessible to all the student.<\/div><div><\/div><div> This project is ideal for the student to use the critical thinking and approve the enabled of computational thought to develop the application. Among the most important are the abstraction and decomposition, the identification of patrons, the algorithmic thinking, the purification of error ... <\/div><div><figure data-trix-attachment=\"{\"contentType\":\"image\",\"height\":1500,\"url\":\"https:\/\/mschools.com\/wp-content\/uploads\/premsi-FIETcat.jpg\",\"width\":2000}\" data-trix-content-type=\"image\" class=\"attachment attachment--preview\"><img src=\"https:\/\/mschools.com\/wp-content\/uploads\/premsi-FIETcat.jpg\" width=\"2000\" height=\"1500\"><figcaption class=\"attachment__caption\"><\/figcaption><\/figure><\/div><h1> Objectives<\/h1><div> <strong>Cooperate and share with the Company and Company Technologies Digitales and Strategies of the Computational Pensamiento<br><\/strong> To give joint respects to a problem that affects a collective of student with disabilities.<\/div><div><br> <strong>Study and apply DIFFERENT TECHNOLOGY DIGITABLE BASADAS IN ARTIFICIAL INTELIGENCIA<\/strong><\/div><div> To train models capable of solving a need.<br><br><\/div><div> <strong>Dismiss an application with graphic programming elements<\/strong><\/div><div> To identify the pieces of Scratch Jr. Tactile that uses, in his process of learning, the student with special need.<br><br><br> Leer Más: <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/ia-para-la-inclusion-en-el-aprendizaje-del-pensamiento-computacional\/\">https:\/\/mschool<\/a><\/div><div><br><\/div><div><br><\/div><div><br><\/div>",
+        "es": "<div>Los estudiantes en el bachillerato tecnológico tienen muchas de las habilidades asociadas con el pensamiento computacional. En cursos anteriores, han trabajado en las bases del pensamiento computacional y han podido probar y utilizar diferentes tecnologías digitales que les han permitido desarrollar estas habilidades.<br> Sin embargo, hay un grupo que tiene más dificultades para lograr este desafío. Los niños y los adolescentes con problemas visuales, cognitivos y motores también deben adquirir estas habilidades para integrarse en una sociedad tan tecnológica como el siglo XXI.<br> Existen diferentes iniciativas que ayudan a este grupo de niños y adolescentes con necesidades especiales. Pero se les pide a los estudiantes tecnológicos de secundaria, como futuros ingenieros, que usen la inteligencia artificial como una herramienta de soporte para trabajar con una de estas iniciativas.<br> Al descargar el archivo, encontrará los diseños de los blogs, el código para leer los blogs con IA (debe abrirse desde <a target=\"_blank\" href=\"https:\/\/machinelearningforkids.co.uk\/scratch\/),\">https:\/\/machinelearningforkids.co.uk\/scratch\/),<\/a> los poderes de este proyecto y una guía para la implementación del proyecto.<\/div><div><br> <strong>Objetivo global\/s<\/strong><\/div><div> Objetivo 04: Educación de calidad, Objetivo 10: Incaluías reducidas<\/div><div><br> <strong>Notas y créditos<\/strong><\/div><div> Proyecto creado por Jordi Gavaldà Bernal, maestro en La Salle Tarragona.<br><br><br> <strong>Contenedor completo:<\/strong><br> https: \/\/ mschool<br><br><br><br><br><\/div><h1> <strong>Propuesta<\/strong><\/h1><div> <strong>¿Cómo va la inteligencia artificial al estudiante con necesidades especiales en sus primeros pasos para adquirir las calificaciones del pensamiento computacional?<br><\/strong><br> Temporario<\/div><div> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/timing\/10-sesiones\/\">10 sesiones<\/a><\/div><div><br><\/div><div> Edad<\/div><div> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/level\/13-15-anos\/\">13-15 años<\/a><\/div><div><br><\/div><div> Metodología<\/div><div> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-basado-en-proyectos-abp\/\">LearnJe basado en proyectos (ABP)<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-basado-en-retos\/\">Basado en Learn Based Based on<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-basado-en-retos-aprendizaje-servicio-aps\/\">Learns aprendidos basados ​​en retrasos en<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/design-thinking-es\/\">el pensamiento de diseño<\/a> del servicio aprendido (APS)<\/div><div><br><\/div><div> Trabajadores habilitados<\/div><div> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/habilidades-de-comunicacion\/\">Comunicación habilitada para<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/creatividad\/\">la creatividad<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/liderazgo-emprendeduria\/\">Liderazgo \/ EmpreDenduría<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/pensamiento-computacional\/\">Pensamiento Pensamiento computacional<\/a> Resolución <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/pensamiento-critico\/\">crítica<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/resolucion-de-problemas\/\">de problemas<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/trabajo-en-equipo\/\">Trabajar en Equipo<\/a><\/div><div><br><\/div><div> Tecnología utilizada<\/div><div> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/technology-used\/digitales-robotica-y-programacion\/\">Digitales robótica y programación de<\/a> recursos <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/technology-used\/inteligencia-artificial\/\">de inteligencia artificial<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/technology-used\/recursos-y-herramientas\/\">y Herramientas<\/a><br><br><\/div><h1> Contexto<\/h1><div> Varias iniciativas educativas están dirigidas a niños y adolescentes con dificultades visuales, cognitivas o de motocicletas, la oportunidad ofrece desarrollar el pensamiento computacional. Una de estas iniciativas es Scratch Jr. Táctil, que tiene que hacer todo su potencial de aprendizaje con la Ayuda de la inteligencia artificial. A través de este proyecto se ha desarrollado una aplicación para identificar las piezas del juego y para proporcionar una voz y texto instructivo, los favoritos de la inclusión digital y la accesibilidad para todos los estudiantes.<br><br><\/div><div> Destacamos ...<br><br><\/div><div> En general, el estudiante toma el papel de usuario de digital y aplicaciones en su proceso de aprendizaje. En este caso, los estudiantes de Bachillerato tecnológico se han encargado de despedir una aplicación para adaptarla a la diversidad del estudiante con discapacidades, extensión, por lo que sus habilitados en el pensamiento computacional y el uso de tecnologías digitales, al mismo tiempo que mejoran la realidad y los compromisos sociales.<\/div><div><\/div><div> La inclusión fue una de las más importantes en referencia al alumno de estudiantes de diferentes perfiles en un mismo salón de clases. No importa, un raro vez de la inclusión digital donde debe adaptar la tecnología para lo útil y accesible para todo el estudiante.<\/div><div><\/div><div> Este proyecto es ideal para que el estudiante use el pensamiento crítico y apruebe el pensamiento computacional para desarrollar la aplicación. Entre los más importantes se encuentran la abstracción y la descomposición, la identificación de los clientes, el pensamiento algorítmico, la purificación del error ... <\/div><div><figure data-trix-attachment=\"{\"contentType\":\"image\",\"height\":1500,\"url\":\"https:\/\/mschools.com\/wp-content\/uploads\/premsi-FIETcat.jpg\",\"width\":2000}\" data-trix-content-type=\"image\" class=\"attachment attachment--preview\"><img src=\"https:\/\/mschools.com\/wp-content\/uploads\/premsi-FIETcat.jpg\" width=\"2000\" height=\"1500\"><figcaption class=\"attachment__caption\"><\/figcaption><\/figure><\/div><h1> Objetivos<\/h1><div> <strong>Cooperar y compartir con la empresa y las tecnologías de la empresa Digitales y estrategias del Pensamiento computacional<br><\/strong> Dar respetos conjuntos a un problema que afecte a un colectivo de los estudiantes con discapacidades.<\/div><div><br> <strong>Estudiar y aplicar diferentes bases digitables tecnológicas en Inteligencia Artificial<\/strong><\/div><div> Para entrenar modelos capaces de resolver una necesidad.<br><br><\/div><div> <strong>Descartar una solicitud con elementos de programación gráfica<\/strong><\/div><div> Para identificar las piezas de Scratch Jr. Táctil que usa, en su proceso de aprendizaje, al estudiante con especial necesidad.<br><br><br> Leer más: <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/ia-para-la-inclusion-en-el-aprendizaje-del-pensamiento-computacional\/\">https: \/\/ mschool<\/a><\/div><div><br><\/div><div><br><\/div><div><br><\/div>"
+    },
+    "<div><strong>DESCRIPTION<\/strong><\/div><div>(CAT) El joc consisteix en que l’alumne ha d’aconseguir recollir tots els ingredients per formar la seva hamburguesa.<br>Prèviament, podem introduir el concepte de \"descomposició\" (quins ingredients formen una hamburguesa?) i algoritme (quins passos hem de seguir i amb quin ordre, per fer una hamburguesa?).<br>Tot seguit, els alumnes fan el barret del \"gat cuiner\" i els ingredients amb plastilina i finalment el programa.<br>--<br>(ENG) The game consists of the student having to collect all the ingredients to form his hamburger.<br>Previously, we can introduce the concept of \"decomposition\" (what ingredients make up a hamburger?) and algorithm (what steps must we follow and in what order, to make a hamburger?).<br>Next, the students make the \"chef cat\" hat and the ingredients with play dough and finally the program.<br><br><\/div><div><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 03: Good Health and Well-Being<br><br><\/div><div><strong>NOTES &amp; CREDITS<\/strong><\/div><div>Projecte creat pel grup: Judit Pairet, Sara Perea, Aitana Moreno, Joan Riera,<br>alumnes de ciències de l'educació de la Universitat de Girona.<\/div>": {
+        "en": "<div><strong>Description<\/strong><\/div><div> (CAT) The game is that the student must collect all the ingredients to form their burger.<br> Previously, we can introduce the concept of \"decomposition\" (what ingredients do a burger?) And algorithm (what steps should we follow and with what order, to make a burger?).<br> Then the students make the hat of the \"cook cat\" and the ingredients with plasticine and finally the program.<br> ---<br> (ENG) The Game Consists of the Student Having to Collect All the Ingredients to Form His Hamburger.<br> APPRESSLY, We can introduce the concept of \"decoration\" (what ingredients make up in hamburger?) And algorithm (what steths must follow and in what order, to make a hamburger?).<br> NEXT, The Students Make the \"Chef Cat\" Hat and the ingredients with play Dough and Finally the program.<br><br><\/div><div> <strong>Global Goal\/s<\/strong><\/div><div> Goal 03: Good Health and Well-Being<br><br><\/div><div> <strong>Notes & credits<\/strong><\/div><div> Project created by the group: Judit Pairet, Sara Perea, Aitana Moreno, Joan Riera,<br> Students of Education Sciences of the University of Girona.<\/div>",
+        "ca": "<div><strong>DESCRIPTION<\/strong><\/div><div>(CAT) El joc consisteix en que l’alumne ha d’aconseguir recollir tots els ingredients per formar la seva hamburguesa.<br>Prèviament, podem introduir el concepte de \"descomposició\" (quins ingredients formen una hamburguesa?) i algoritme (quins passos hem de seguir i amb quin ordre, per fer una hamburguesa?).<br>Tot seguit, els alumnes fan el barret del \"gat cuiner\" i els ingredients amb plastilina i finalment el programa.<br>--<br>(ENG) The game consists of the student having to collect all the ingredients to form his hamburger.<br>Previously, we can introduce the concept of \"decomposition\" (what ingredients make up a hamburger?) and algorithm (what steps must we follow and in what order, to make a hamburger?).<br>Next, the students make the \"chef cat\" hat and the ingredients with play dough and finally the program.<br><br><\/div><div><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 03: Good Health and Well-Being<br><br><\/div><div><strong>NOTES & CREDITS<\/strong><\/div><div>Projecte creat pel grup: Judit Pairet, Sara Perea, Aitana Moreno, Joan Riera,<br>alumnes de ciències de l'educació de la Universitat de Girona.<\/div>",
+        "es": "<div><strong>Descripción<\/strong><\/div><div> (Cat) El juego es que el estudiante debe recolectar todos los ingredientes para formar su hamburguesa.<br> Anteriormente, podemos introducir el concepto de \"descomposición\" (¿qué ingredientes hacen una hamburguesa?) Y algoritmo (¿qué pasos debemos seguir y con qué orden, hacer una hamburguesa?).<br> Luego, los estudiantes hacen el sombrero del \"gato cocinero\" y los ingredientes con plastilina y finalmente el programa.<br> ---<br> (Eng) El juego consiste en que el estudiante tenga que recolectar todos los ingredientes para formar su hamburguesa.<br> Aparentemente, podemos introducir el concepto de \"decoración\" (¿qué ingredientes componen en la hamburguesa?) Y algoritmo (¿qué steths debe seguir y en qué orden, hacer una hamburguesa?).<br> Luego, los estudiantes hacen el sombrero de \"Chef Cat\" y los ingredientes con masa de juego y finalmente el programa.<br><br><\/div><div> <strong>Objetivo global\/s<\/strong><\/div><div> Objetivo 03: Buena salud y bienestar<br><br><\/div><div> <strong>Notas y créditos<\/strong><\/div><div> Proyecto creado por el grupo: Judit Paretet, Sara Perea, Aitana Moreno, Joan Riera,<br> Estudiantes de ciencias de la educación de la Universidad de Girona.<\/div>"
+    },
+    "<div>Authors: Leslie Johnson &amp; Erica Simone<br><br>On September 2022 a little 6-year-old and blind student arrives to our school.<br>With our 3D printers, we make +6 kits of Scratch Jr Tactile blocks, and with the 5th grade students we begin to teach and support 1st grade students.<br>This service-learning project was so engaging for all the students, and started to build relations and feel purposeful to teach and accompany the little ones, while learning together.<br>We made them close their eyes to empathize with Elizabeth, the blind kid, and it inspires all the older students to design and print more objects in 3D to help Elizabeth to learn more things (like Braille, language and more!).<br><br>LINKS:<br>Introducing Scratch Jr Tactile to 1st grade students (google slides): <a target=\"_blank\" href=\"https:\/\/docs.google.com\/presentation\/d\/1Ikry12lnPVAiV-AtfFs910f2npQZ6EPoOoqY2XHPwXw\/edit?usp=sharing\">https:\/\/docs.google.com\/presentation\/d\/1Ikry12lnPVAiV-AtfFs910f2npQZ6EPoOoqY2XHPwXw\/edit?usp=sharing<\/a><\/div><div><br>NOTES AND CREDITS:<br>We are Leslie Johnson &amp; Erica Simone, teachers at PS22 School in NYC.<br>We are inside CS4AllNYC group, and our educator team is amazing!<\/div><div><br><\/div>": {
+        "en": "<div>Authors: Leslie Johnson & Erica Simone<br><br>On September 2022 a little 6-year-old and blind student arrives to our school.<br>With our 3D printers, we make +6 kits of Scratch Jr Tactile blocks, and with the 5th grade students we begin to teach and support 1st grade students.<br>This service-learning project was so engaging for all the students, and started to build relations and feel purposeful to teach and accompany the little ones, while learning together.<br>We made them close their eyes to empathize with Elizabeth, the blind kid, and it inspires all the older students to design and print more objects in 3D to help Elizabeth to learn more things (like Braille, language and more!).<br><br>LINKS:<br>Introducing Scratch Jr Tactile to 1st grade students (google slides): <a target=\"_blank\" href=\"https:\/\/docs.google.com\/presentation\/d\/1Ikry12lnPVAiV-AtfFs910f2npQZ6EPoOoqY2XHPwXw\/edit?usp=sharing\">https:\/\/docs.google.com\/presentation\/d\/1Ikry12lnPVAiV-AtfFs910f2npQZ6EPoOoqY2XHPwXw\/edit?usp=sharing<\/a><\/div><div><br>NOTES AND CREDITS:<br>We are Leslie Johnson & Erica Simone, teachers at PS22 School in NYC.<br>We are inside CS4AllNYC group, and our educator team is amazing!<\/div><div><br><\/div>",
+        "ca": "<div>Autors: Leslie Johnson i Erica Simone<br><br> El setembre de 2022, un estudiant de 6 anys i cecs arriba a la nostra escola.<br> Amb les nostres impressores 3D, fem +6 kits de scratch jr blocs tàctils, i amb els estudiants de cinquè grau comencem a ensenyar i donar suport als estudiants de primer grau.<br> Aquest projecte d’aprenentatge de serveis va ser tan atractiu per a tots els estudiants i va començar a construir relacions i a sentir-se intencionat per ensenyar i acompanyar els petits, tot aprenent junts.<br> Els vam fer tancar els ulls per empatitzar amb Elizabeth, el cec, i inspira a tots els estudiants més grans a dissenyar i imprimir més objectes en 3D per ajudar a Elizabeth a aprendre més coses (com ara braille, idioma i molt més!).<br><br> Enllaços:<br> Introducció de Scratch Jr Tactile als estudiants de primer grau (diapositives de Google): <a target=\"_blank\" href=\"https:\/\/docs.google.com\/presentation\/d\/1Ikry12lnPVAiV-AtfFs910f2npQZ6EPoOoqY2XHPwXw\/edit?usp=sharing\">https:\/\/docs.google.com\/presentation\/d\/1ikry12lnpvaiv-atffs910f2npqz6ePoooqy2xhpwxw\/edit?usp=sharing<\/a><\/div><div><br> Notes i crèdits:<br> Som Leslie Johnson i Erica Simone, professors de la PS22 School de Nova York.<br> Estem dins del grup CS4allnyc i el nostre equip d’educadors és increïble.<\/div><div><br><\/div>",
+        "es": "<div>Autores: Leslie Johnson y Erica Simone<br><br> En septiembre de 2022, un pequeño estudiante de 6 años y ciegos llega a nuestra escuela.<br> Con nuestras impresoras 3D, hacemos +6 kits de scratch jr bloques táctiles, y con los estudiantes de quinto grado comenzamos a enseñar y apoyar a los estudiantes de primer grado.<br> Este proyecto de aprendizaje de servicio fue muy atractivo para todos los estudiantes, y comenzó a construir relaciones y sentirse decidido a enseñar y acompañar a los pequeños, mientras aprenden juntos.<br> Los hicimos cerrar los ojos para empatizar con Elizabeth, el niño ciego, e inspira a todos los estudiantes mayores a diseñar e imprimir más objetos en 3D para ayudar a Elizabeth a aprender más cosas (¡como Braille, Language y más!).<br><br> CAMPO DE GOLF:<br> Presentación de scratch jr táctil a estudiantes de primer grado (diapositivas de Google): <a target=\"_blank\" href=\"https:\/\/docs.google.com\/presentation\/d\/1Ikry12lnPVAiV-AtfFs910f2npQZ6EPoOoqY2XHPwXw\/edit?usp=sharing\">https:\/\/docs.google.com\/presentation\/d\/1ikry12lnpvaiv-atffs910f2npqz6epoooqy2xhpwxw\/edit?usp=shaing<\/a><\/div><div><br> Notas y créditos:<br> Somos Leslie Johnson y Erica Simone, maestros de la escuela PS22 en Nueva York.<br> Estamos dentro del grupo CS4AllyC, ¡y nuestro equipo de Educator es increíble!<\/div><div><br><\/div>"
+    },
+    "<div>On September 2022 a little 6-year-old and blind student arrives to our school.&nbsp;<br>With our 3D printers, we make +6 kits of Scratch Tactile blocks, and with the 5th grade students we begin to teach and support 1st grade students.&nbsp;<br>This service-learning project was so engaging for all the students, and started to build relations and feel purposeful to teach and accompany the little ones, while learning together.<br>We made them close their eyes to empathize with Elizabeth, the blind kid, and it inspires all the older students to design and print more objects in 3D to help Elizabeth to learn more things (like Braille, language and more!).<br><br><\/div><div><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 04: Quality Education, GOAL 10: Reduced Inequalities, GOAL 09: Industry innovation and infrastructure<br><br><\/div><div><strong>NOTES &amp; CREDITS<\/strong><\/div><div>We are Leslie Johnson &amp; Erica Simone, teachers at PS22 School in NYC.<br>We are inside CS4AllNYC group, and our educator team is amazing!<br><br><strong>DOCUMENTS<\/strong><br>Introducing Scratch Tactile to 1st grade students (google slides): <a target=\"_blank\" href=\"https:\/\/docs.google.com\/presentation\/d\/1Ikry12lnPVAiV-AtfFs910f2npQZ6EPoOoqY2XHPwXw\/edit?usp=sharing\">https:\/\/docs.google.com\/presentation\/d\/1Ikry12lnPVAiV-AtfFs910f2npQZ6EPoOoqY2XHPwXw\/edit?usp=sharing<\/a><\/div>": {
+        "en": "<div>On September 2022 a little 6-year-old and blind student arrives to our school. <br>With our 3D printers, we make +6 kits of Scratch Tactile blocks, and with the 5th grade students we begin to teach and support 1st grade students. <br>This service-learning project was so engaging for all the students, and started to build relations and feel purposeful to teach and accompany the little ones, while learning together.<br>We made them close their eyes to empathize with Elizabeth, the blind kid, and it inspires all the older students to design and print more objects in 3D to help Elizabeth to learn more things (like Braille, language and more!).<br><br><\/div><div><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 04: Quality Education, GOAL 10: Reduced Inequalities, GOAL 09: Industry innovation and infrastructure<br><br><\/div><div><strong>NOTES & CREDITS<\/strong><\/div><div>We are Leslie Johnson & Erica Simone, teachers at PS22 School in NYC.<br>We are inside CS4AllNYC group, and our educator team is amazing!<br><br><strong>DOCUMENTS<\/strong><br>Introducing Scratch Tactile to 1st grade students (google slides): <a target=\"_blank\" href=\"https:\/\/docs.google.com\/presentation\/d\/1Ikry12lnPVAiV-AtfFs910f2npQZ6EPoOoqY2XHPwXw\/edit?usp=sharing\">https:\/\/docs.google.com\/presentation\/d\/1Ikry12lnPVAiV-AtfFs910f2npQZ6EPoOoqY2XHPwXw\/edit?usp=sharing<\/a><\/div>",
+        "es": "<div>En septiembre de 2022, un pequeño estudiante de 6 años y ciegos llega a nuestra escuela.<br> Con nuestras impresoras 3D, hacemos +6 kits de bloques táctiles de scratch, y con los estudiantes de quinto grado comenzamos a enseñar y apoyar a los estudiantes de primer grado.<br> Este proyecto de aprendizaje de servicio fue muy atractivo para todos los estudiantes, y comenzó a construir relaciones y sentirse decidido a enseñar y acompañar a los pequeños, mientras aprenden juntos.<br> Los hicimos cerrar los ojos para empatizar con Elizabeth, el niño ciego, e inspira a todos los estudiantes mayores a diseñar e imprimir más objetos en 3D para ayudar a Elizabeth a aprender más cosas (¡como Braille, Language y más!).<br><br><\/div><div> <strong>Objetivo global\/s<\/strong><\/div><div> Objetivo 04: Educación de calidad, Objetivo 10: Desigualdades reducidas, Objetivo 09: Innovación e infraestructura de la industria<br><br><\/div><div> <strong>Notas y créditos<\/strong><\/div><div> Somos Leslie Johnson y Erica Simone, maestros de la escuela PS22 en Nueva York.<br> Estamos dentro del grupo CS4AllyC, ¡y nuestro equipo de Educator es increíble!<br><br> <strong>Documentos<\/strong><br> Introducción de scratch táctil a los estudiantes de 1er grado (diapositivas de Google): <a target=\"_blank\" href=\"https:\/\/docs.google.com\/presentation\/d\/1Ikry12lnPVAiV-AtfFs910f2npQZ6EPoOoqY2XHPwXw\/edit?usp=sharing\">https:\/\/docs.google.com\/presentation\/d\/1ikry12lnpvaiv-atffs910f2npqz6epoooqy2xhpwxw\/edit?usp=shaing<\/a><\/div>",
+        "ca": "<div>El setembre de 2022, un estudiant de 6 anys i cecs arriba a la nostra escola.<br> Amb les nostres impressores 3D, fem +6 kits de blocs tàctils de ratllat, i amb els estudiants de cinquè grau comencem a ensenyar i donar suport als estudiants de primer grau.<br> Aquest projecte d’aprenentatge de serveis va ser tan atractiu per a tots els estudiants i va començar a construir relacions i a sentir-se intencionat per ensenyar i acompanyar els petits, tot aprenent junts.<br> Els vam fer tancar els ulls per empatitzar amb Elizabeth, el cec, i inspira a tots els estudiants més grans a dissenyar i imprimir més objectes en 3D per ajudar a Elizabeth a aprendre més coses (com ara braille, idioma i molt més!).<br><br><\/div><div> <strong>Objectiu global<\/strong><\/div><div> Objectiu 04: Educació de qualitat, objectiu 10: Desigualtats reduïdes, objectiu 09: Innovació i infraestructura de la indústria<br><br><\/div><div> <strong>Notes i crèdits<\/strong><\/div><div> Som Leslie Johnson i Erica Simone, professors de la PS22 School de Nova York.<br> Estem dins del grup CS4allnyc i el nostre equip d’educadors és increïble.<br><br> <strong>Documents<\/strong><br> Introducció de Scratch Tactile als estudiants de primer grau (diapositives de Google): <a target=\"_blank\" href=\"https:\/\/docs.google.com\/presentation\/d\/1Ikry12lnPVAiV-AtfFs910f2npQZ6EPoOoqY2XHPwXw\/edit?usp=sharing\">https:\/\/docs.google.com\/presentation\/d\/1ikry12lnpvaiv-atffs910f2npqz6ePoooqy2xhpwxw\/edit?usp=sharing<\/a><\/div>"
+    },
+    "<div><strong>DESCRIPTION<\/strong><\/div><div>The Butterfly wants to go the flowers to pollinate them. <br>Could you help her?<br>How can you help her using a repeat block?<br><br>Click <a target=\"_blank\" href=\"https:\/\/www.scratchjrtactile.org\/en\/_files\/ugd\/68336d_9d4340a94304499db165cff6deeb8163.pdf\">here<\/a> for more.<br><br><\/div><div><strong>GLOBAL GOAL<\/strong><\/div><div>GOAL 15: Life on Land<br><br><\/div><div><strong>NOTES &amp; CREDITS<\/strong><\/div><div>Project with Kindergarten children in Barcelona.<\/div>": {
+        "en": "<div><strong>DESCRIPTION<\/strong><\/div><div>The Butterfly wants to go the flowers to pollinate them. <br>Could you help her?<br>How can you help her using a repeat block?<br><br>Click <a target=\"_blank\" href=\"https:\/\/www.scratchjrtactile.org\/en\/_files\/ugd\/68336d_9d4340a94304499db165cff6deeb8163.pdf\">here<\/a> for more.<br><br><\/div><div><strong>GLOBAL GOAL<\/strong><\/div><div>GOAL 15: Life on Land<br><br><\/div><div><strong>NOTES & CREDITS<\/strong><\/div><div>Project with Kindergarten children in Barcelona.<\/div>",
+        "ca": "<div><strong>Descripció<\/strong><\/div><div> La papallona vol anar a les flors per pol·linitzar -les.<br> Podríeu ajudar -la?<br> Com podeu ajudar -la a utilitzar un bloc repetit?<br><br> Feu clic <a target=\"_blank\" href=\"https:\/\/www.scratchjrtactile.org\/en\/_files\/ugd\/68336d_9d4340a94304499db165cff6deeb8163.pdf\">aquí<\/a> per obtenir més informació.<br><br><\/div><div> <strong>Objectiu global<\/strong><\/div><div> Objectiu 15: Vida a la terra<br><br><\/div><div> <strong>Notes i crèdits<\/strong><\/div><div> Projecte amb nens de parvulari a Barcelona.<\/div>",
+        "es": "<div><strong>DESCRIPCIÓN<\/strong><\/div><div> La mariposa quiere ir a las flores para polinizarlas.<br> ¿Podrías ayudarla?<br> ¿Cómo puedes ayudarla a usar un bloque de repetición?<br><br> Haga clic <a target=\"_blank\" href=\"https:\/\/www.scratchjrtactile.org\/en\/_files\/ugd\/68336d_9d4340a94304499db165cff6deeb8163.pdf\">aquí<\/a> para más.<br><br><\/div><div> <strong>Objetivo global<\/strong><\/div><div> Objetivo 15: Vida en tierra<br><br><\/div><div> <strong>Notas y créditos<\/strong><\/div><div> Proyecto con niños de jardín de infantes en Barcelona.<\/div>"
+    },
+    "<div>Els alumnes David i Cloe de l'escola d'EE Nadís SCS van a l'escola ordinària Sagrat Cor de Sarrià amb els companys de cinquè. Fan aula compartida i junts treballen aprenentatges per projectes.<br><br>En el segon trimestre, l'ABP va ser sobre l'Edat Mitjana. Dins del procés d'aprenentatge van fer servir el recurs de Pensament Computacional Desendollat Scratch Jr Tàctil.&nbsp;<br><br>Van crear una Situació d'Aprenentatge amb tots els coneixements adquirits, dibuixant els fons i els personatges de l'època treballada.&nbsp;<br><br>Un cop creats van programar personatges per fer històries amb els blocs d'Scratch Jr Tàctil.<br>En David i la Cloe van guardar tot el material preparat i, en el mes d'abril, durant la setmana de Sant Jordi, van preparar una Situació d'Aprenentatge amb els companys de segon de primària.&nbsp;<br>Van ser els grans protagonistes: van explicar què és Scratch Jr Tàctil i l'activitat que els hi havien preparat.&nbsp;<br><br>L'alumnat de segon es va distribuir sota el guiatge del David i la Cloe i van programar i resoldre diferents reptes.<br>Scratch Jr Tàctil és una gran eina per la inclusió de tot l'alumnat.<br><br><\/div><div><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 04: Quality Education, GOAL 10: Reduced Inequalities<\/div><div><strong>NOTES &amp; CREDITS&nbsp;<\/strong><\/div><div>Aquest projecte ha estat creat en equip pels mestres de primària de Sagrat Cor Sarrià i l'escola NADIS de Barcelona.<br><br><iframe width=\"725\" height=\"453\" src=\"https:\/\/www.tinkercad.com\/embed\/67T7Pr2PHzd?editbtn=1\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\"><\/iframe>&nbsp;<\/div>": {
+        "en": "<div>Students David and Cloe of the EE Nadís SCS school go to the Sacred Heart School of Sarrià with their fifth classmates. They make classroom shared and together they work on project learning.<br><br> In the second quarter, the ABP was about the Middle Ages. Within the learning process, they used the spatational thinking resource Scratch JR Tactil.<br><br> They created a learning situation with all the knowledge acquired, drawing the backgrounds and characters of the working time.<br><br> Once created they programmed characters to make stories with the blogs of Scratch JR Tactil.<br> David and Cloe kept all the material prepared and, in April, during St. George's week, prepared a learning situation with their secondary school colleagues.<br> They were the main protagonists: they explained what Scratch JR Tactil is and the activity they had prepared for them.<br><br> Secondary students were distributed under the guidance of David and Cloe and programmed and solved different challenges.<br> Scratch JR Tactil is a great tool for the inclusion of all students.<br><br><\/div><div> <strong>Global Goal\/s<\/strong><\/div><div> Goal 04: Quality Education, Goal 10: Reduced Uninqualities<\/div><div> <strong>Notes & credits<\/strong><\/div><div> This project has been created as a team by the Primary school teachers of Sagrat Cor Sarrià and the Nadis school in Barcelona. <br><br><iframe width=\"725\" height=\"453\" src=\"https:\/\/www.tinkercad.com\/embed\/67T7Pr2PHzd?editbtn=1\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\"><\/iframe><\/div>",
+        "ca": "<div>Els alumnes David i Cloe de l'escola d'EE Nadís SCS van a l'escola ordinària Sagrat Cor de Sarrià amb els companys de cinquè. Fan aula compartida i junts treballen aprenentatges per projectes.<br><br>En el segon trimestre, l'ABP va ser sobre l'Edat Mitjana. Dins del procés d'aprenentatge van fer servir el recurs de Pensament Computacional Desendollat Scratch Jr Tàctil. <br><br>Van crear una Situació d'Aprenentatge amb tots els coneixements adquirits, dibuixant els fons i els personatges de l'època treballada. <br><br>Un cop creats van programar personatges per fer històries amb els blocs d'Scratch Jr Tàctil.<br>En David i la Cloe van guardar tot el material preparat i, en el mes d'abril, durant la setmana de Sant Jordi, van preparar una Situació d'Aprenentatge amb els companys de segon de primària. <br>Van ser els grans protagonistes: van explicar què és Scratch Jr Tàctil i l'activitat que els hi havien preparat. <br><br>L'alumnat de segon es va distribuir sota el guiatge del David i la Cloe i van programar i resoldre diferents reptes.<br>Scratch Jr Tàctil és una gran eina per la inclusió de tot l'alumnat.<br><br><\/div><div><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 04: Quality Education, GOAL 10: Reduced Inequalities<\/div><div><strong>NOTES & CREDITS <\/strong><\/div><div>Aquest projecte ha estat creat en equip pels mestres de primària de Sagrat Cor Sarrià i l'escola NADIS de Barcelona.<br><br><iframe width=\"725\" height=\"453\" src=\"https:\/\/www.tinkercad.com\/embed\/67T7Pr2PHzd?editbtn=1\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\"><\/iframe> <\/div>"
+    },
+    "<div>Introduce the Global Goals to the students.<br>Then, collaboratively, draw images that represent each one of the 17 UN Global Goals for 2030.<br>They will serve as backgrounds.<br>Next, create a main character that has a challenge to solve related with one Goal.<br>You can create objects and other characters that will help on the adventure.<br>Invent a story, to make your character try to solve that challenge.<br><br>Finally, reflect about the program, the problems faced and try to go deeper onto the chosen Global Goal: ¿What are the causes? ¿What are the barriers? ¿What would be the ideal (solved) scenario? ¿How can we arrive there?<br><br><\/div><div><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 01: No Poverty, GOAL 02: Zero Hunger, GOAL 03: Good Health and Well-Being, GOAL 04: Quality Education, GOAL 05: Gender Equality, GOAL 06: Clean Water and Sanitation, GOAL 07: Affordable and Clean Energy, GOAL 08: Decent Work and Economic Growth, GOAL 10: Reduced Inequalities, GOAL 11: Sustainable Cities and Communities, GOAL 12: Responsible Consumption and Production, GOAL 13: Climate Action, GOAL 14: Life Below Water, GOAL 15: Life on Land, GOAL 16: Peace Justice and Strong Institutions, GOAL 17: Partnerships for the goals, GOAL 09: Industry innovation and infrastructure<br><br><\/div><div><strong>NOTES &amp; CREDITS<\/strong><\/div><div>Poster from the United Nations. <br>More information: <a target=\"_blank\" href=\"http:\/\/www.globalgoals.org\/\">www.globalgoals.org<\/a><br><br><\/div>": {
+        "en": "<div>Introduce the Global Goals to the students.<br>Then, collaboratively, draw images that represent each one of the 17 UN Global Goals for 2030.<br>They will serve as backgrounds.<br>Next, create a main character that has a challenge to solve related with one Goal.<br>You can create objects and other characters that will help on the adventure.<br>Invent a story, to make your character try to solve that challenge.<br><br>Finally, reflect about the program, the problems faced and try to go deeper onto the chosen Global Goal: ¿What are the causes? ¿What are the barriers? ¿What would be the ideal (solved) scenario? ¿How can we arrive there?<br><br><\/div><div><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 01: No Poverty, GOAL 02: Zero Hunger, GOAL 03: Good Health and Well-Being, GOAL 04: Quality Education, GOAL 05: Gender Equality, GOAL 06: Clean Water and Sanitation, GOAL 07: Affordable and Clean Energy, GOAL 08: Decent Work and Economic Growth, GOAL 10: Reduced Inequalities, GOAL 11: Sustainable Cities and Communities, GOAL 12: Responsible Consumption and Production, GOAL 13: Climate Action, GOAL 14: Life Below Water, GOAL 15: Life on Land, GOAL 16: Peace Justice and Strong Institutions, GOAL 17: Partnerships for the goals, GOAL 09: Industry innovation and infrastructure<br><br><\/div><div><strong>NOTES & CREDITS<\/strong><\/div><div>Poster from the United Nations. <br>More information: <a target=\"_blank\" href=\"http:\/\/www.globalgoals.org\/\">www.globalgoals.org<\/a><br><br><\/div>",
+        "ca": "<div>Introduïu els objectius globals als estudiants.<br> A continuació, col·laborativament, dibuixa imatges que representin cadascun dels 17 objectius globals de les Nacions Unides per al 2030.<br> Serviran de fons.<br> A continuació, creeu un personatge principal que tingui un repte per resoldre relacionat amb un objectiu.<br> Podeu crear objectes i altres caràcters que us ajudaran a l’aventura.<br> Inventeu una història, per fer que el vostre personatge intenti resoldre aquest repte.<br><br> Finalment, reflexiona sobre el programa, els problemes que s’enfronta i intenten aprofundir en l’objectiu global escollit: quines són les causes? Quines són les barreres? Quin seria l'escenari ideal (resolt)? Com podem arribar -hi?<br><br><\/div><div> <strong>Objectiu global<\/strong><\/div><div> GOAL 01: No Poverty, GOAL 02: Zero Hunger, GOAL 03: Good Health and Well-Being, GOAL 04: Quality Education, GOAL 05: Gender Equality, GOAL 06: Clean Water and Sanitation, GOAL 07: Affordable and Clean Energy, GOAL 08: Decent Work and Economic Growth, GOAL 10: Reduced Inequalities, GOAL 11: Sustainable Cities and Communities, GOAL 12: Responsible Consumption and Production, GOAL 13: Climate Action, GOAL 14: Vida per sota de l’aigua, objectiu 15: Life on Land, objectiu 16: Justícia de la pau i institucions fortes, objectiu 17: col·laboracions per als objectius, objectiu 09: Innovació de la indústria i infraestructures<br><br><\/div><div> <strong>Notes i crèdits<\/strong><\/div><div> Pòster de les Nacions Unides.<br> Més informació: <a target=\"_blank\" href=\"http:\/\/www.globalgoals.org\/\">www.globalgoals.org<\/a><br><br><\/div>",
+        "es": "<div>Introducir los objetivos globales a los estudiantes.<br> Luego, en colaboración, dibuje imágenes que representen cada uno de los 17 objetivos globales de la ONU para 2030.<br> Servirán como antecedentes.<br> A continuación, cree un personaje principal que tenga un desafío para resolver relacionado con un objetivo.<br> Puede crear objetos y otros personajes que ayuden en la aventura.<br> Inventa una historia, para que tu personaje intente resolver ese desafío.<br><br> Finalmente, reflexione sobre el programa, los problemas que enfrentan e intentan profundizar en el objetivo global elegido: ¿cuáles son las causas? ¿Cuáles son las barreras? ¿Cuál sería el escenario ideal (resuelto)? ¿Cómo podemos llegar allí?<br><br><\/div><div> <strong>Objetivo global\/s<\/strong><\/div><div> Objetivo 01: Sin pobreza, Objetivo 02: Cero Hambre, Objetivo 03: Buena salud y bienestar, Objetivo 04: Educación de calidad, Objetivo 05: Igualdad de género, Objetivo 06: Agua limpia y saneamiento, Objetivo 07: Energía asequible y limpia, Objetivo 08: Trabajo decente y crecimiento económico, 10: Reducido Inequalidad, Incaluidades, Citidades sostenibles y comunidades, Objetivo 12: Conservación y producción Decente, Objetivo 13: Acción Reducción de la meta: Acción Reducida. Agua, Objetivo 15: Vida en la tierra, Objetivo 16: Justicia de la Paz e Instituciones fuertes, Objetivo 17: Asociación para los objetivos, Objetivo 09: Innovación e infraestructura de la industria<br><br><\/div><div> <strong>Notas y créditos<\/strong><\/div><div> Cartel de las Naciones Unidas.<br> Más información: <a target=\"_blank\" href=\"http:\/\/www.globalgoals.org\/\">www.globalgoals.org<\/a><br><br><\/div>"
+    },
+    "<div><strong>DESCRIPTION<\/strong><\/div><div>Vem organitzar una emocionant gincana a l'Antiga Fàbrica Espanya Industrial que combinava diversió i treball en equip. Al començament del joc, cada equip va rebre la primera pista, que els guiava a un lloc específic. En arribar a aquest lloc, trobaven un objecte relacionat amb l'entorn i una nova pista que indicava la següent destinació. Cada etapa del joc estava dissenyada per desafiar les habilitats de deducció i cooperació dels participants, mentre es desplaçaven d'un lloc a un altre, recopilant pistes i objectes. L'objectiu final era trobar el cromo amagat. L'activitat va ser una excel·lent manera de fomentar la col·laboració i la diversió entre tots els participants.<br><br><\/div><div><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 04: Quality Education<br><br><\/div><div><strong>NOTES &amp; CREDITS<\/strong><\/div><div>Oriol Blas del Fab Casa del Mig de Sants<\/div>": {
+        "en": "<div><strong>Description<\/strong><\/div><div> We organized an exciting Gincana in the old Industrial Spain factory that combined fun and teamwork. At the beginning of the game, each team received the first court, which guided them to a specific place. When they arrived at this place, they found an object related to the environment and a new track that indicated the next destination. Each stage of the game was designed to challenge the participants' deduction and cooperation skills, while moving from one place to another, collecting clues and objects. The ultimate goal was to find the hidden chrome. The activity was a great way to foster collaboration and fun among all participants.<br><br><\/div><div> <strong>Global Goal\/s<\/strong><\/div><div> Goal 04: Quality Education<br><br><\/div><div> <strong>Notes & credits<\/strong><\/div><div> Oriol Blas of the Fab house in the middle of Sants<\/div>",
+        "ca": "<div><strong>DESCRIPTION<\/strong><\/div><div>Vem organitzar una emocionant gincana a l'Antiga Fàbrica Espanya Industrial que combinava diversió i treball en equip. Al començament del joc, cada equip va rebre la primera pista, que els guiava a un lloc específic. En arribar a aquest lloc, trobaven un objecte relacionat amb l'entorn i una nova pista que indicava la següent destinació. Cada etapa del joc estava dissenyada per desafiar les habilitats de deducció i cooperació dels participants, mentre es desplaçaven d'un lloc a un altre, recopilant pistes i objectes. L'objectiu final era trobar el cromo amagat. L'activitat va ser una excel·lent manera de fomentar la col·laboració i la diversió entre tots els participants.<br><br><\/div><div><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 04: Quality Education<br><br><\/div><div><strong>NOTES & CREDITS<\/strong><\/div><div>Oriol Blas del Fab Casa del Mig de Sants<\/div>",
+        "es": "<div><strong>Descripción<\/strong><\/div><div> Organizamos un emocionante Gincana en la antigua fábrica industrial de España que combinaba diversión y trabajo en equipo. Al comienzo del juego, cada equipo recibió la primera cancha, que los guió a un lugar específico. Cuando llegaron a este lugar, encontraron un objeto relacionado con el entorno y una nueva pista que indicaba el próximo destino. Cada etapa del juego fue diseñada para desafiar las habilidades de deducción y cooperación de los participantes, mientras se mueve de un lugar a otro, recolectando pistas y objetos. El objetivo final era encontrar el cromo oculto. La actividad fue una excelente manera de fomentar la colaboración y la diversión entre todos los participantes.<br><br><\/div><div> <strong>Objetivo global\/s<\/strong><\/div><div> Objetivo 04: Educación de calidad<br><br><\/div><div> <strong>Notas y créditos<\/strong><\/div><div> Oriol Blas de la casa fabulosa en medio de Sants<\/div>"
+    },
+    "<div><strong>DESCRIPTION<\/strong><\/div><div>El Pep va al bosc a buscar el cagatió. Es perd i quan el troba canta la famosa cançó nadalenca catalana: \"tió, tió, cagatió, avellanes i turró...\"<br><br><\/div><div><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 15: Life on Land<br><br><\/div><div><strong>NOTES &amp; CREDITS<\/strong><\/div><div>Professors de l'Escola Parellada de Sant Boi.<\/div>": {
+        "en": "<div><strong>Description<\/strong><\/div><div> Pep goes to the forest to find the cagatió. It is lost and when he finds him, the famous Catalan Christmas song sings: \"Tió, tió, cagatió, hazelnuts and nougat ...\"<br><br><\/div><div> <strong>Global Goal\/s<\/strong><\/div><div> Goal 15: Life on Land<br><br><\/div><div> <strong>Notes & credits<\/strong><\/div><div> Teachers of the Parellada School of Sant Boi.<\/div>",
+        "ca": "<div><strong>DESCRIPTION<\/strong><\/div><div>El Pep va al bosc a buscar el cagatió. Es perd i quan el troba canta la famosa cançó nadalenca catalana: \"tió, tió, cagatió, avellanes i turró...\"<br><br><\/div><div><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 15: Life on Land<br><br><\/div><div><strong>NOTES & CREDITS<\/strong><\/div><div>Professors de l'Escola Parellada de Sant Boi.<\/div>",
+        "es": "<div><strong>Descripción<\/strong><\/div><div> Pep va al bosque para encontrar el Cagatió. Está perdido y cuando lo encuentra, la famosa canción de Navidad catalán canta: \"Tió, tió, Cagatió, avellanas y nougat ...\"<br><br><\/div><div> <strong>Objetivo global\/s<\/strong><\/div><div> Objetivo 15: Vida en tierra<br><br><\/div><div> <strong>Notas y créditos<\/strong><\/div><div> Maestros de la Escuela Parellada de Sant Boi.<\/div>"
+    },
+    "<div>Tània Estrada Belmonte | 4x6 size | Explica la leyenda de Sant Jordi y crea tus propios diálogos.&nbsp;<\/div>": {
+        "en": "<div>Tània Estrada Belmonte | 4x6 size | Explain the legend of Sant Jordi and create your own dialogues.<\/div>",
+        "ca": "<div>TÀnia Estrada Belmonte | Mida 4x6 | Expliqueu la llegenda de Sant Jordi i creeu els vostres propis diàlegs.<\/div>",
+        "el": "<div>Tània Estrada Belmonte | 4x6 Μέγεθος | Εξηγήστε το μύθο του Sant Jordi και δημιουργήστε τους δικούς σας διαλόγους.<\/div>"
+    },
+    "<div>3x4 size<\/div>": {
+        "ca": "<div>Mida 3x4<\/div>",
+        "en": "<div>3x4 size<\/div>",
+        "de": "<div>3x4 Größe<\/div>",
+        "el": "<div>Μέγεθος 3x4<\/div>",
+        "es": "<div>Tamaño 3x4<\/div>"
+    },
+    "<div>Sofia love's to play Sonic !&nbsp;<br>We printed a platform game background and make Sonic and other characters using printer and playdoh.<br><br>Could you get all the rings ?<\/div>": {
+        "ca": "<div>Sofia Love's to Play Sonic!<br> Vam imprimir un fons de joc de plataforma i fer que Sonic i altres personatges utilitzin impressora i Playdoh.<br><br> Podríeu aconseguir tots els anells?<\/div>",
+        "es": "<div>¡Sofía Love es jugar Sonic!<br> Imprimimos un fondo de juego de plataforma y hacemos Sonic y otros personajes usando Printer y PlayDoh.<br><br> ¿Podrías obtener todos los anillos?<\/div>",
+        "en": "<div>Sofia love's to play Sonic ! <br>We printed a platform game background and make Sonic and other characters using printer and playdoh.<br><br>Could you get all the rings ?<\/div>"
+    },
+    "<div><strong>DESCRIPTION<\/strong><\/div><div>Hem creat un recorregut pel mar en el qual el vaixell ha d’arribar a l’illa a la recerca d'un tresor.<br>En aquest recorregut hi ha diferents obstacles com un tauró, una roca i meduses.<br>El personatge (vaixell) ha d’aconseguir trobar el camí sense obstacles per arribar a l’illa on hi ha el tresor.<\/div><div>​<\/div><div><strong>NOTES &amp; CREDITS<\/strong><\/div><div>Som alumnes de magisteri de la Universitat de Girona.<\/div>": {
+        "en": "<div><strong>Description<\/strong><\/div><div> We have created a journey through the sea where the boat must reach the island in search of a treasure.<br> On this route there are different obstacles such as a shark, a rock and jellyfish.<br> The character (boat) must find the path without obstacles to reach the island where the treasure is located.<\/div><div>​<\/div><div> <strong>Notes & credits<\/strong><\/div><div> We are teaching students of the University of Girona.<\/div>",
+        "es": "<div><strong>Descripción<\/strong><\/div><div> Hemos creado un viaje por el mar donde el bote debe llegar a la isla en busca de un tesoro.<br> En esta ruta hay diferentes obstáculos, como un tiburón, una roca y medusas.<br> El personaje (barco) debe encontrar el camino sin obstáculos para llegar a la isla donde se encuentra el tesoro.<\/div><div>​<\/div><div> <strong>Notas y créditos<\/strong><\/div><div> Estamos enseñando a los estudiantes de la Universidad de Girona.<\/div>",
+        "ca": "<div><strong>DESCRIPTION<\/strong><\/div><div>Hem creat un recorregut pel mar en el qual el vaixell ha d’arribar a l’illa a la recerca d'un tresor.<br>En aquest recorregut hi ha diferents obstacles com un tauró, una roca i meduses.<br>El personatge (vaixell) ha d’aconseguir trobar el camí sense obstacles per arribar a l’illa on hi ha el tresor.<\/div><div>​<\/div><div><strong>NOTES & CREDITS<\/strong><\/div><div>Som alumnes de magisteri de la Universitat de Girona.<\/div>",
+        "el": "<div><strong>Περιγραφή<\/strong><\/div><div> Δημιουργήσαμε ένα ταξίδι στη θάλασσα όπου το σκάφος πρέπει να φτάσει στο νησί αναζητώντας έναν θησαυρό.<br> Σε αυτή τη διαδρομή υπάρχουν διαφορετικά εμπόδια όπως ένας καρχαρίας, ένας βράχος και οι μέδουσες.<br> Ο χαρακτήρας (σκάφος) πρέπει να βρει το μονοπάτι χωρίς εμπόδια για να φτάσει στο νησί όπου βρίσκεται ο θησαυρός.<\/div><div>​<\/div><div> <strong>Σημειώσεις & πιστώσεις<\/strong><\/div><div> Διδάσκουμε φοιτητές του Πανεπιστημίου της Girona.<\/div>"
+    },
+    "<div>4x6 size<\/div>": {
+        "es": "<div>Tamaño 4x6<\/div>",
+        "ca": "<div>Mida 4x6<\/div>",
+        "en": "<div>4x6 size<\/div>",
+        "el": "<div>Μέγεθος 4x6<\/div>"
+    },
+    "<div>4x6 size<br><br><\/div>": {
+        "es": "<div>Tamaño 4x6<br><br><\/div>",
+        "ca": "<div>Mida 4x6<br><br><\/div>",
+        "en": "<div>4x6 size<br><br><\/div>",
+        "pl": "<div>Rozmiar 4x6<br><br><\/div>",
+        "el": "<div>Μέγεθος 4x6<br><br><\/div>"
+    },
+    "<div><strong>Proyecto multinivel para programar con el robot Edison y desarrollar competencias transversales, con alumnado de secundaria de educación especial.<br><\/strong><br>&nbsp;Temporización&nbsp;<\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/timing\/12-sessiones\/\">12 sesiones<\/a><\/div><div><br><\/div><div>&nbsp;Edad&nbsp;<\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/level\/12-20-anos\/\">12-20 años<\/a><\/div><div><br><\/div><div>&nbsp;Metodología&nbsp;<\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-basado-en-proyectos-abp\/\">Aprendizaje basado en proyectos (ABP)<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-basado-en-retos\/\">Aprendizaje basado en retos<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-colaborativo\/\">Aprendizaje colaborativo<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-cooperativo\/\">Aprendizaje cooperativo<\/a><\/div><div><br><\/div><div>&nbsp;Habilidades trabajadas&nbsp;<\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/habilidades-de-comunicacion\/\">Habilidades de comunicación<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/pensamiento-computacional\/\">Pensamiento computacional<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/resolucion-de-problemas\/\">Resolución de problemas<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/trabajo-en-equipo\/\">Trabajo en equipo<\/a><\/div><div><br><\/div><div>&nbsp;Tecnología utilizada&nbsp;<\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/technology-used\/robotica-y-programacion\/\">Robótica y programación<\/a><br><br><\/div><h1><strong>Contexto<\/strong><\/h1><div>Somos una escuela de educación especial que atiende a alumnado de entre 3 y 20 años. Enmarcamos el proyecto en el ODS 4: queremos proporcionar a todo el mundo el acceso a la educación, la formación y el pleno desarrollo de su potencial. Nuestro reto es conseguir que todo el alumnado del departamento de secundaria pueda participar de la programación de un robot que presentaremos en la Feria de Robótica de nuestra comarca.<br><br><\/div><div>Destacamos...<br><br><\/div><div>Queremos dar a conocer lo que nuestro alumnado es capaz de hacer, a la vez que aprenden a exponer su trabajo con orgullo y seguridad.<\/div><div>&nbsp;<\/div><div>Trabajamos con las competencias transversales (digital y personal, social y de aprender a aprender) y matemáticas.<\/div><div>&nbsp;<\/div><div>Desarrollamos diferentes niveles de programación porque, nuestro alumnado, parte de diferentes niveles de aprendizaje: Código de Barras (control del robot con un código de barras), Scratch JR Tactile (trabajo previo a la codificación, muy útil también con alumnado con dificultades visuales); Scratch JR (con paneles interactivos) y Scratch (solo codificación).<\/div><div>&nbsp;<\/div><div>Para dar contenido a las diferentes programaciones, el aula taller elabora una maqueta de la masía de Can Vila, que da nombre a nuestra escuela. Aquí hemos podido llevar a la práctica lo programado por el equipo de robótica, con 3 zonas diferenciadas con los 3 códigos utilizados.<\/div><div>&nbsp;<figure data-trix-attachment=\"{&quot;contentType&quot;:&quot;image&quot;,&quot;height&quot;:1536,&quot;url&quot;:&quot;https:\/\/mschools.com\/wp-content\/uploads\/8-2.jpg&quot;,&quot;width&quot;:2048}\" data-trix-content-type=\"image\" class=\"attachment attachment--preview\"><img src=\"https:\/\/mschools.com\/wp-content\/uploads\/8-2.jpg\" width=\"2048\" height=\"1536\"><figcaption class=\"attachment__caption\"><\/figcaption><\/figure><figure data-trix-attachment=\"{&quot;contentType&quot;:&quot;image&quot;,&quot;height&quot;:529,&quot;url&quot;:&quot;https:\/\/mschools.com\/wp-content\/uploads\/14-1.jpg&quot;,&quot;width&quot;:844}\" data-trix-content-type=\"image\" class=\"attachment attachment--preview\"><img src=\"https:\/\/mschools.com\/wp-content\/uploads\/14-1.jpg\" width=\"844\" height=\"529\"><figcaption class=\"attachment__caption\"><\/figcaption><\/figure><\/div><h1>Objetivos<\/h1><div><strong>Conocer distintos modelos de programación<br><\/strong>Para que cada estudiante, independientemente de su nivel de aprendizaje, pueda desarrollar una amplia y adaptativa comprensión de la programación.<\/div><div><br><strong>Interpretar un código de programación<br><\/strong>Habilidad clave para entender el funcionamiento interno de los programas, identificar fallos y optimizar el rendimiento de los sistemas.&nbsp;<\/div><div><br><strong>Organizar un código para conseguir lo que queremos del robot<\/strong><\/div><div>Fomentando la planificación y estructuración del pensamiento, ya que los alumnos deben considerar el orden de las instrucciones, la modularidad y la claridad del código.<br><br><\/div><div><strong>Respetar y valorar el trabajo de los compañeros<\/strong><\/div><div>Promoviendo el respeto mutuo y la cooperación, aspectos esenciales para el buen funcionamiento de cualquier equipo. Valorar las contribuciones de los demás incentiva la diversidad de pensamiento y perspectivas y favorece el bienestar de los estudiantes, aumentando su motivación y compromiso con el aprendizaje.<br><br>Autora: Vega Papió, Marta. Programación para todos. <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/programacion-para-todos\/\">https:\/\/mschools.com\/es\/programacion-para-todos\/<\/a>.<\/div>": {
+        "ca": "<div><strong>Projecte multinivell per programar amb el robot Edison i desenvolupar competències transversals, amb estudiants d’educació especial.<br><\/strong><br> Tant<\/div><div> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/timing\/12-sessiones\/\">12 sessions<\/a><\/div><div><br><\/div><div> Envellir<\/div><div> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/level\/12-20-anos\/\">12-20 anys<\/a><\/div><div><br><\/div><div> Metodologia<\/div><div> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-basado-en-proyectos-abp\/\">L’aprenentatge basat en el projecte (ABP)<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-basado-en-retos\/\">Aprenentatge basat en<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-colaborativo\/\">l’aprenentatge col·laboratiu<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-cooperativo\/\">d’aprenentatge cooperatiu<\/a><\/div><div><br><\/div><div> Habilitats treballades<\/div><div> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/habilidades-de-comunicacion\/\">Habilitats comunicatives<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/pensamiento-computacional\/\">de pensament informàtic<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/resolucion-de-problemas\/\">Resolució de problemes Treball<\/a> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/trabajo-en-equipo\/\">en equip<\/a><\/div><div><br><\/div><div> Tecnologia utilitzada<\/div><div> <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/technology-used\/robotica-y-programacion\/\">Robòtica i programació<\/a><br><br><\/div><h1> <strong>Context<\/strong><\/h1><div> Som una escola d’educació especial que atén els estudiants d’entre 3 i 20 anys. Enquadem el projecte en SDG 4: volem proporcionar a tothom accés a l’educació, la formació i el desenvolupament complet del seu potencial. El nostre repte és garantir que tots els estudiants del departament secundari puguin participar en la programació d’un robot que presentarem a la Fira de Robòtica de la nostra regió.<br><br><\/div><div> Destaquem ...<br><br><\/div><div> Volem donar a conèixer el que els nostres estudiants són capaços de fer, mentre aprenem a exposar el seu treball amb orgull i seguretat.<\/div><div><\/div><div> Treballem amb les competències transversals (digitals i personals, socials i per aprendre a aprendre) i matemàtiques.<\/div><div><\/div><div> Desenvolupem diferents nivells de programació perquè, els nostres estudiants, formen part de diferents nivells d’aprenentatge: codi de barres (control de robot amb un codi de barres), Scratch JR Tactile (treball abans de la codificació, també molt útil amb els estudiants amb dificultats visuals); Scratch jr (amb panells interactius) i Scratch (només codificació).<\/div><div><\/div><div> Per donar contingut a les diferents programacions, l’aula del taller prepara un model de Can Vila Farme, que nomena la nostra escola. Aquí hem pogut practicar el que programen els equips de robòtica, amb 3 àrees diferents amb els 3 codis utilitzats. <\/div><div><figure data-trix-attachment=\"{\"contentType\":\"image\",\"height\":1536,\"url\":\"https:\/\/mschools.com\/wp-content\/uploads\/8-2.jpg\",\"width\":2048}\" data-trix-content-type=\"image\" class=\"attachment attachment--preview\"><img src=\"https:\/\/mschools.com\/wp-content\/uploads\/8-2.jpg\" width=\"2048\" height=\"1536\"><figcaption class=\"attachment__caption\"><\/figcaption><\/figure><figure data-trix-attachment=\"{\"contentType\":\"image\",\"height\":529,\"url\":\"https:\/\/mschools.com\/wp-content\/uploads\/14-1.jpg\",\"width\":844}\" data-trix-content-type=\"image\" class=\"attachment attachment--preview\"><img src=\"https:\/\/mschools.com\/wp-content\/uploads\/14-1.jpg\" width=\"844\" height=\"529\"><figcaption class=\"attachment__caption\"><\/figcaption><\/figure><\/div><h1> Els pendents<\/h1><div> <strong>Conegueu diferents models de programació<br><\/strong> De manera que cada estudiant, independentment del seu nivell d’aprenentatge, pugui desenvolupar una comprensió àmplia i adaptativa de la programació.<\/div><div><br> <strong>Interpretar un codi de programació<br><\/strong> Habilitat clau per comprendre el funcionament intern dels programes, identificar fallades i optimitzar el rendiment dels sistemes.<\/div><div><br> <strong>Organitzeu un codi per obtenir el que volem del robot<\/strong><\/div><div> Promoure la planificació i l’estructuració del pensament, ja que els estudiants han de considerar l’ordre de les instruccions, la modularitat i la claredat del codi.<br><br><\/div><div> <strong>Respecteu i valoreu el treball dels companys de classe<\/strong><\/div><div> Promoure el respecte i la cooperació mútues, aspectes essencials per al funcionament adequat de qualsevol equip. Avaluar les contribucions d’altres persones fomenta la diversitat de pensament i les perspectives i afavoreix el benestar dels estudiants, augmentant la seva motivació i compromís amb l’aprenentatge.<br><br> Autor: Vega Papó, Marta. Programació per a tots. <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/programacion-para-todos\/\">https:\/\/mschools.com\/es\/programacion-para-todos\/<\/a> .<\/div>",
+        "es": "<div><strong>Proyecto multinivel para programar con el robot Edison y desarrollar competencias transversales, con alumnado de secundaria de educación especial.<br><\/strong><br> Temporización <\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/timing\/12-sessiones\/\">12 sesiones<\/a><\/div><div><br><\/div><div> Edad <\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/level\/12-20-anos\/\">12-20 años<\/a><\/div><div><br><\/div><div> Metodología <\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-basado-en-proyectos-abp\/\">Aprendizaje basado en proyectos (ABP)<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-basado-en-retos\/\">Aprendizaje basado en retos<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-colaborativo\/\">Aprendizaje colaborativo<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/metodology\/aprendizaje-cooperativo\/\">Aprendizaje cooperativo<\/a><\/div><div><br><\/div><div> Habilidades trabajadas <\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/habilidades-de-comunicacion\/\">Habilidades de comunicación<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/pensamiento-computacional\/\">Pensamiento computacional<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/resolucion-de-problemas\/\">Resolución de problemas<\/a><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/skill-worked-on\/trabajo-en-equipo\/\">Trabajo en equipo<\/a><\/div><div><br><\/div><div> Tecnología utilizada <\/div><div><a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/technology-used\/robotica-y-programacion\/\">Robótica y programación<\/a><br><br><\/div><h1><strong>Contexto<\/strong><\/h1><div>Somos una escuela de educación especial que atiende a alumnado de entre 3 y 20 años. Enmarcamos el proyecto en el ODS 4: queremos proporcionar a todo el mundo el acceso a la educación, la formación y el pleno desarrollo de su potencial. Nuestro reto es conseguir que todo el alumnado del departamento de secundaria pueda participar de la programación de un robot que presentaremos en la Feria de Robótica de nuestra comarca.<br><br><\/div><div>Destacamos...<br><br><\/div><div>Queremos dar a conocer lo que nuestro alumnado es capaz de hacer, a la vez que aprenden a exponer su trabajo con orgullo y seguridad.<\/div><div> <\/div><div>Trabajamos con las competencias transversales (digital y personal, social y de aprender a aprender) y matemáticas.<\/div><div> <\/div><div>Desarrollamos diferentes niveles de programación porque, nuestro alumnado, parte de diferentes niveles de aprendizaje: Código de Barras (control del robot con un código de barras), Scratch JR Tactile (trabajo previo a la codificación, muy útil también con alumnado con dificultades visuales); Scratch JR (con paneles interactivos) y Scratch (solo codificación).<\/div><div> <\/div><div>Para dar contenido a las diferentes programaciones, el aula taller elabora una maqueta de la masía de Can Vila, que da nombre a nuestra escuela. Aquí hemos podido llevar a la práctica lo programado por el equipo de robótica, con 3 zonas diferenciadas con los 3 códigos utilizados.<\/div><div> <figure data-trix-attachment=\"{\"contentType\":\"image\",\"height\":1536,\"url\":\"https:\/\/mschools.com\/wp-content\/uploads\/8-2.jpg\",\"width\":2048}\" data-trix-content-type=\"image\" class=\"attachment attachment--preview\"><img src=\"https:\/\/mschools.com\/wp-content\/uploads\/8-2.jpg\" width=\"2048\" height=\"1536\"><figcaption class=\"attachment__caption\"><\/figcaption><\/figure><figure data-trix-attachment=\"{\"contentType\":\"image\",\"height\":529,\"url\":\"https:\/\/mschools.com\/wp-content\/uploads\/14-1.jpg\",\"width\":844}\" data-trix-content-type=\"image\" class=\"attachment attachment--preview\"><img src=\"https:\/\/mschools.com\/wp-content\/uploads\/14-1.jpg\" width=\"844\" height=\"529\"><figcaption class=\"attachment__caption\"><\/figcaption><\/figure><\/div><h1>Objetivos<\/h1><div><strong>Conocer distintos modelos de programación<br><\/strong>Para que cada estudiante, independientemente de su nivel de aprendizaje, pueda desarrollar una amplia y adaptativa comprensión de la programación.<\/div><div><br><strong>Interpretar un código de programación<br><\/strong>Habilidad clave para entender el funcionamiento interno de los programas, identificar fallos y optimizar el rendimiento de los sistemas. <\/div><div><br><strong>Organizar un código para conseguir lo que queremos del robot<\/strong><\/div><div>Fomentando la planificación y estructuración del pensamiento, ya que los alumnos deben considerar el orden de las instrucciones, la modularidad y la claridad del código.<br><br><\/div><div><strong>Respetar y valorar el trabajo de los compañeros<\/strong><\/div><div>Promoviendo el respeto mutuo y la cooperación, aspectos esenciales para el buen funcionamiento de cualquier equipo. Valorar las contribuciones de los demás incentiva la diversidad de pensamiento y perspectivas y favorece el bienestar de los estudiantes, aumentando su motivación y compromiso con el aprendizaje.<br><br>Autora: Vega Papió, Marta. Programación para todos. <a target=\"_blank\" href=\"https:\/\/mschools.com\/es\/programacion-para-todos\/\">https:\/\/mschools.com\/es\/programacion-para-todos\/<\/a>.<\/div>"
+    },
+    "<div><strong>DESCRIPTION<\/strong><\/div><div>Make the snail arrive to the lettuce leaves.&nbsp;<br>But the snail does not like the plastic, so it needs to avoid touching plastic !<br><br><\/div><div><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 15: Life on Land, GOAL 12: Responsible Consumption and Production<\/div>": {
+        "ca": "<div><strong>Descripció<\/strong><\/div><div> Feu que el caragol arribi a les fulles d’enciam.<br> Però el caragol no li agrada el plàstic, per la qual cosa ha d’evitar tocar el plàstic.<br><br><\/div><div> <strong>Objectiu global<\/strong><\/div><div> Objectiu 15: Vida a la terra, objectiu 12: Consum i producció responsables<\/div>",
+        "es": "<div><strong>DESCRIPCIÓN<\/strong><\/div><div> Haga que el caracol llegue a las hojas de lechuga.<br> Pero al caracol no le gusta el plástico, por lo que debe evitar tocar el plástico.<br><br><\/div><div> <strong>Objetivo global\/s<\/strong><\/div><div> Objetivo 15: Vida en la tierra, Objetivo 12: Consumo y producción responsables<\/div>"
+    },
+    "<div><strong>DESCRIPTION<\/strong><\/div><div>El equipo STREAM Team de la escuela PS22 de Nueva York ha participado en una feria de ciencia con las Escuelas de la Ciudad de Nueva York. Durante el evento, presentamos Scratch Táctil y creamos fondos variados, como uno inspirado en Super Mario Bros y otro con banderas de diferentes países del mundo. Además, en el pasado, hemos impreso en 3D varios kits de Scratch Jr Tactile.<br><br><\/div><div><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 04: Quality Education<br><br><\/div><div><strong>NOTES &amp; CREDITS<\/strong><\/div><div>Thanks to the support of Lionel Bergeron.<\/div>": {
+        "ca": "<div><strong>Descripció<\/strong><\/div><div> L’equip de Stream Team de l’Escola PS22 de Nova York ha participat en una fira científica amb les escoles de la ciutat de Nova York. Durant l’esdeveniment, presentem un ratllat tàctil i creem fons variats, com ara un inspirat en Super Mario Bros i un altre amb banderes de diferents països del món. A més, en el passat, hem imprès en 3D diversos kits tàctils JR.<br><br><\/div><div> <strong>Objectiu global<\/strong><\/div><div> Objectiu 04: Educació de qualitat<br><br><\/div><div> <strong>Notes i crèdits<\/strong><\/div><div> Gràcies al suport de Lionel Bergeron.<\/div>",
+        "es": "<div><strong>DESCRIPTION<\/strong><\/div><div>El equipo STREAM Team de la escuela PS22 de Nueva York ha participado en una feria de ciencia con las Escuelas de la Ciudad de Nueva York. Durante el evento, presentamos Scratch Táctil y creamos fondos variados, como uno inspirado en Super Mario Bros y otro con banderas de diferentes países del mundo. Además, en el pasado, hemos impreso en 3D varios kits de Scratch Jr Tactile.<br><br><\/div><div><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 04: Quality Education<br><br><\/div><div><strong>NOTES & CREDITS<\/strong><\/div><div>Thanks to the support of Lionel Bergeron.<\/div>"
+    },
+    "<div>L’escenari és el mar. La missió del personatge és arribar a l’illa esquivant el perill, per això cal que comenci a la bandera verda, creant un recorregut amb les peces indicant els passos que ha de seguir.&nbsp;<\/div><div>​<\/div><div><strong>NOTES &amp; CREDITS<\/strong><\/div><div>Gerard Busquets, Yasmine Haddouti, Pau Vilaboa, Clara Tarridas i Anna Cobas<br>Alumnat de Ciències de l'Educació de la Universitat de Girona (UDG).<\/div>": {
+        "ca": "<div>L’escenari és el mar. La missió del personatge és arribar a l’illa esquivant el perill, per això cal que comenci a la bandera verda, creant un recorregut amb les peces indicant els passos que ha de seguir. <\/div><div>​<\/div><div><strong>NOTES & CREDITS<\/strong><\/div><div>Gerard Busquets, Yasmine Haddouti, Pau Vilaboa, Clara Tarridas i Anna Cobas<br>Alumnat de Ciències de l'Educació de la Universitat de Girona (UDG).<\/div>",
+        "en": "<div>The stage is the sea. The mission of the character is to get to the island dodging the danger, which is why it must be started on the green flag, creating a journey with the pieces indicating the steps that must be taken.<\/div><div>​<\/div><div> <strong>Notes & credits<\/strong><\/div><div> Gerard Busquets, Yasmine Haddduuti, Pau Vilaboa, Clara Tarridas and Anna Cobas<br> Students of Education Sciences of the University of Girona (UdG).<\/div>",
+        "es": "<div>El escenario es el mar. La misión del personaje es llegar a la isla esquivando el peligro, por lo que debe comenzar en la bandera verde, creando un viaje con las piezas que indican los pasos que deben tomarse.<\/div><div>​<\/div><div> <strong>Notas y créditos<\/strong><\/div><div> Gerard Busquets, Yasmine Haddduuti, Pau Vilaboa, Clara Tarridas y Anna Cobas<br> Estudiantes de ciencias de la educación de la Universidad de Girona (UDG).<\/div>"
+    },
+    "<div>Bernat loves parkings and car parking !<br><br>We printed a parking background, Bernat has made a car using playdoh,&nbsp;<br>and he coded the car to be parked !<br><br>Please, take care to not crash with other cars !<br><br><\/div><div><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 11: Sustainable Cities and Communities<br><br><strong>NOTES:<\/strong><br>Done at Montserrat Abelló Barcelona Public Library (Barcelona)<\/div>": {
+        "ca": "<div>A Bernat li encanta els aparcaments i el pàrquing de cotxes!<br><br> Vam imprimir un fons d’aparcament, Bernat ha fet un cotxe amb Playdoh,<br> I va codificar el cotxe per aparcar!<br><br> Si us plau, tingueu cura de no caure amb altres cotxes.<br><br><\/div><div> <strong>Objectiu global<\/strong><\/div><div> Objectiu 11: ciutats i comunitats sostenibles<br><br> <strong>Notes:<\/strong><br> Fet a la Biblioteca Pública de Montserrat Abelló Barcelona (Barcelona)<\/div>",
+        "en": "<div>Bernat loves parkings and car parking !<br><br>We printed a parking background, Bernat has made a car using playdoh, <br>and he coded the car to be parked !<br><br>Please, take care to not crash with other cars !<br><br><\/div><div><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 11: Sustainable Cities and Communities<br><br><strong>NOTES:<\/strong><br>Done at Montserrat Abelló Barcelona Public Library (Barcelona)<\/div>",
+        "es": "<div>¡A Bernat le encanta los estacionamientos y el estacionamiento para automóviles!<br><br> Imprimimos un fondo de estacionamiento, Bernat ha hecho un automóvil con Playdoh,<br> ¡Y codificó el auto para estacionar!<br><br> ¡Por favor, tenga cuidado de no estrellarse con otros autos!<br><br><\/div><div> <strong>Objetivo global\/s<\/strong><\/div><div> Objetivo 11: Ciudades y comunidades sostenibles<br><br> <strong>Notas:<\/strong><br> Hecho en la Biblioteca Pública de Montserrat Abelló Barcelona (Barcelona)<\/div>"
+    },
+    "<div><strong>DESCRIPTION<\/strong><\/div><div>(CAT) Tenim dos personatges, la papallona i el gat. La papallona li ha robat l’esmorzar al gat i el gat ho ha d'evitar.<br>La papallona (el lladre), té una ruta marcada sempre igual per arribar fins a l'esmorzar.<br>Els dos comencen a la vegada a moure's amb la bandera.<br>El repte és programar el gat perquè intercepti la papallona i eviti que agafi el seu esmorzar (o si ja l'ha agafat, que el pugui recuperar).<br>--<br>(ENG) We have two characters, the butterfly and the cat. The butterfly has stolen the cat's breakfast and the cat must avoid it.<br>The butterfly (the thief), always has the same marked route to get to breakfast.<br>The two begin to move with the flag at the same time.<br>The challenge is to program the cat to intercept the butterfly and prevent it from taking its breakfast (or if it has already taken it, to retrieve it).<\/div><div><br><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 10: Reduced Inequalities<br><br><\/div><div><strong>NOTES &amp; CREDITS<\/strong><\/div><div>Alumnes de la UDG.<\/div>": {
+        "ca": "<div><strong>DESCRIPTION<\/strong><\/div><div>(CAT) Tenim dos personatges, la papallona i el gat. La papallona li ha robat l’esmorzar al gat i el gat ho ha d'evitar.<br>La papallona (el lladre), té una ruta marcada sempre igual per arribar fins a l'esmorzar.<br>Els dos comencen a la vegada a moure's amb la bandera.<br>El repte és programar el gat perquè intercepti la papallona i eviti que agafi el seu esmorzar (o si ja l'ha agafat, que el pugui recuperar).<br>--<br>(ENG) We have two characters, the butterfly and the cat. The butterfly has stolen the cat's breakfast and the cat must avoid it.<br>The butterfly (the thief), always has the same marked route to get to breakfast.<br>The two begin to move with the flag at the same time.<br>The challenge is to program the cat to intercept the butterfly and prevent it from taking its breakfast (or if it has already taken it, to retrieve it).<\/div><div><br><strong>GLOBAL GOAL\/S<\/strong><\/div><div>GOAL 10: Reduced Inequalities<br><br><\/div><div><strong>NOTES & CREDITS<\/strong><\/div><div>Alumnes de la UDG.<\/div>",
+        "en": "<div><strong>Description<\/strong><\/div><div> (Cat) We have two characters, the butterfly and the cat. The butterfly has stolen breakfast on the cat and the cat should avoid it.<br> The butterfly (the thief), has a route always the same to get to breakfast.<br> The two begin at the same time to move with the flag.<br> The challenge is to schedule the cat to intercept the butterfly and prevent him from taking his breakfast (or if he has already taken it, he can recover).<br> ---<br> (ENG) We have Two Characters, The Butterfly and the Cat. The Butterfly Has Stolen the Cat's Breakfast and the Cat Must Avoid It.<br> The Butterfly (The Thief), Always Has The Same Marked Route to Get to Breakfast.<br> The Two Begin to Move with the Flag At the Same Time.<br> The Challenge is to program the cat to intercept and prevent it from taking it breakfast (gold if it has already taken it, to retrieve it).<\/div><div><br> <strong>Global Goal\/s<\/strong><\/div><div> Goal 10: Reduced Unqualities<br><br><\/div><div> <strong>Notes & credits<\/strong><\/div><div> UdG students.<\/div>",
+        "es": "<div><strong>Descripción<\/strong><\/div><div> (Gato) Tenemos dos caracteres, la mariposa y el gato. La mariposa ha robado el desayuno en el gato y el gato debe evitarlo.<br> La mariposa (el ladrón) tiene una ruta siempre marcada para desayunar.<br> Los dos comienzan al mismo tiempo para moverse con la bandera.<br> El desafío es programar al gato para interceptar la mariposa y evitar que tome su desayuno (o si ya lo ha tomado, puede recuperarse).<br> ---<br> (Eng) Tenemos dos caracteres, la mariposa y el gato. La mariposa ha robado el desayuno del gato y el gato debe evitarlo.<br> La mariposa (el ladrón) siempre tiene la misma ruta marcada para desayunar.<br> Los dos comienzan a moverse con la bandera al mismo tiempo.<br> El desafío es programar al gato para que se intercepte y evitar que lo tome desayunar (oro si lo tiene al sreanen, para recuperarlo).<\/div><div><br> <strong>Objetivo global\/s<\/strong><\/div><div> Objetivo 10: Incalidades reducidas<br><br><\/div><div> <strong>Notas y créditos<\/strong><\/div><div> Estudiantes de UDG.<\/div>"
+    },
+    "<div>You can use modeling clay, play-doh and similar clays to create your own objects and characters !<br>Be hands-on creative, and make your stories and games more fun !<br><br><\/div>": {
+        "en": "<div>You can use modeling clay, play-doh and similar clays to create your own objects and characters !<br>Be hands-on creative, and make your stories and games more fun !<br><br><\/div>",
+        "ca": "<div>Podeu utilitzar l’argila de modelatge, la play-doh i les argiles similars per crear els vostres propis objectes i caràcters.<br> Sigueu creatius i feu més divertits les vostres històries i jocs!<br><br><\/div>",
+        "es": "<div>¡Puedes usar Modeling Clay, Play-Doh y arcillas similares para crear tus propios objetos y personajes!<br> ¡Sea creativo práctico y haga que sus historias y juegos sean más divertidos!<br><br><\/div>",
+        "pl": "<div>Możesz użyć gliny modelowania, odtwarzania i podobnych glin, aby tworzyć własne obiekty i postacie!<br> Bądź praktyczny kreatywny i spraw, aby swoje historie i gry były przyjemniejsze!<br><br><\/div>",
+        "el": "<div>Μπορείτε να χρησιμοποιήσετε μοντελοποίηση πηλού, play-doh και παρόμοιους αργίλους για να δημιουργήσετε τα δικά σας αντικείμενα και χαρακτήρες!<br> Να είστε πρακτικοί δημιουργικοί και να κάνετε τις ιστορίες και τα παιχνίδια σας πιο διασκεδαστικά!<br><br><\/div>"
+    },
+    "<div>4x6 board<\/div>": {
+        "ca": "<div>Junta 4x6<\/div>",
+        "en": "<div>4x6 board<\/div>",
+        "pl": "<div>Board 4x6<\/div>",
+        "el": "<div>Πίνακας 4x6<\/div>",
+        "es": "<div>4x6 tablero<\/div>"
+    },
+    "<div>@conlamusicaatodaspartes | 4x6 size | Material realizado por @conlamusicaatodaspartes con Canva.&nbsp;<\/div>": {
+        "ca": "<div>@ConlamusicaTodaspartes | Mida 4x6 | Material elaborat per @ConlamusicaTodaspartes amb Canva.<\/div>",
+        "en": "<div>@conlamusicaatodaspartes | 4x6 size | Material made by @conlamusicaatodaspartes with Canva.<\/div>",
+        "es": "<div>@conlamusicaatodaspartes | 4x6 size | Material realizado por @conlamusicaatodaspartes con Canva. <\/div>",
+        "pl": "<div>@Conlamusicaatodaspartes | Rozmiar 4x6 | Materiał wykonany przez @Conlamusicaatodaspartes z Canva.<\/div>",
+        "el": "<div>@conlamusicaatodaspartes | 4x6 Μέγεθος | Υλικό που κατασκευάστηκε από @conlamusicaatodaspartes με καμβά.<\/div>"
+    },
+    "<div>Tània Estrada Belmonte | 4x6 size | Rutinas escolares con pictogramas SAAC.<br>Gracias a <a target=\"_blank\" href=\"https:\/\/arasaac.org\/\">https:\/\/arasaac.org<\/a> por los pictogramas.<\/div>": {
+        "ca": "<div>TÀnia Estrada Belmonte | Mida 4x6 | Rutines escolars amb pictogrames SAAC.<br> Gràcies a <a target=\"_blank\" href=\"https:\/\/arasaac.org\/\">https:\/\/arasaac.org<\/a> per als pictogrames.<\/div>",
+        "es": "<div>Tània Estrada Belmonte | 4x6 size | Rutinas escolares con pictogramas SAAC.<br>Gracias a <a target=\"_blank\" href=\"https:\/\/arasaac.org\/\">https:\/\/arasaac.org<\/a> por los pictogramas.<\/div>",
+        "en": "<div>Tània Estrada Belmonte | 4x6 size | School routines with SAAC pictograms.<br> Thanks to <a target=\"_blank\" href=\"https:\/\/arasaac.org\/\">https:\/\/arasaac.org<\/a> for pictograms.<\/div>",
+        "pl": "<div>Tània Estrada Belmonte | Rozmiar 4x6 | Szkolne rutyny z piktogramami Saac.<br> Dzięki <a target=\"_blank\" href=\"https:\/\/arasaac.org\/\">https:\/\/arasaac.org<\/a> za piktogramy.<\/div>",
+        "el": "<div>Tània Estrada Belmonte | 4x6 Μέγεθος | Σχολικές ρουτίνες με εικονογράμματα SAAC.<br> Χάρη στη <a target=\"_blank\" href=\"https:\/\/arasaac.org\/\">διεύθυνση https:\/\/arasaac.org<\/a> για εικονογράμματα.<\/div>"
+    },
+    "<div>&nbsp;4x6 size<\/div>": {
+        "ca": "<div>Mida 4x6<\/div>",
+        "en": "<div> 4x6 size<\/div>",
+        "es": "<div>Tamaño 4x6<\/div>"
+    },
+    "<div>3x4 size, 4x6 size<br><br>Acompaña a los animales a la granja.<br><br>Tània Estrada Belmonte<\/div>": {
+        "ca": "<div>Mida 3x4, mida 4x6<br><br> Acompanyar els animals a la granja.<br><br> TÀnia Estrada Belmonte<\/div>",
+        "en": "<div>3x4 Size, 4x6 Size<br><br> Accompany the animals to the farm.<br><br> Tània Estrada Belmonte<\/div>",
+        "el": "<div>3x4 μέγεθος, μέγεθος 4x6<br><br> Συνοδεύει τα ζώα στο αγρόκτημα.<br><br> Tània Estrada Belmonte<\/div>"
+    },
+    "<div>3x4 size<br><br>Inspirado en el cuento \"La coneja blanca\". Tània Estrada Belmonte<\/div>": {
+        "ca": "<div>Mida 3x4<br><br> Inspirat en la història \"El conill blanc\". TÀnia Estrada Belmonte<\/div>",
+        "es": "<div>3x4 size<br><br>Inspirado en el cuento \"La coneja blanca\". Tània Estrada Belmonte<\/div>",
+        "el": "<div>Μέγεθος 3x4<br><br> Εμπνευσμένο από την ιστορία \"The White Rabbit\". Tània Estrada Belmonte<\/div>"
+    },
+    "<div>Creative background for Scratch Tactile<\/div>": {
+        "en": "<div>Creative background for Scratch Tactile<\/div>",
+        "ca": "<div>Antecedents creatius per a Scratch Tactile<\/div>",
+        "pl": "<div>Kreatywne tło dla zarysowania dotykowe<\/div>",
+        "el": "<div>Δημιουργικό υπόβαθρο για αφύσικα γρατσουνιά<\/div>",
+        "es": "<div>Antecedentes creativos para Scratch Tactile<\/div>"
+    },
+    "<div>3x4 size, 4x6 size<\/div>": {
+        "en": "<div>3x4 size, 4x6 size<\/div>",
+        "ca": "<div>Mida 3x4, mida 4x6<\/div>",
+        "el": "<div>3x4 μέγεθος, μέγεθος 4x6<\/div>"
+    },
+    "<div>Useful for axis references or to start working with Multiplication&nbsp;&nbsp;<\/div>": {
+        "en": "<div>Useful for axis references or to start working with Multiplication  <\/div>",
+        "ca": "<div>Útil per a referències de l’eix o per començar a treballar amb la multiplicació<\/div>",
+        "es": "<div>Útil para referencias de eje o para comenzar a trabajar con multiplicación<\/div>"
+    },
+    "<div>I am helping schools in Poland develop their Computer Science and STEAM skills.<br><br>In Poland, every public school has a 3D printer. The print size is 15 cm x 15 cm, so we've prepared 3D files for each color, one copy of the block in each file.<br><br>We want to make the printing process as accessible as possible. I'm attaching the files.<br><br>The next important step is to translate materials into Polish.<\/div>": {
+        "en": "<div>I am helping schools in Poland develop their Computer Science and STEAM skills.<br><br>In Poland, every public school has a 3D printer. The print size is 15 cm x 15 cm, so we've prepared 3D files for each color, one copy of the block in each file.<br><br>We want to make the printing process as accessible as possible. I'm attaching the files.<br><br>The next important step is to translate materials into Polish.<\/div>",
+        "ca": "<div>Estic ajudant les escoles de Polònia a desenvolupar les seves competències informàtiques i de vapor.<br><br> A Polònia, cada escola pública té una impressora 3D. La mida d’impressió és de 15 cm x 15 cm, de manera que hem preparat fitxers 3D per a cada color, una còpia del bloc de cada fitxer.<br><br> Volem que el procés d’impressió sigui el més accessible possible. Estic adjuntant els fitxers.<br><br> El següent pas important és traduir materials en polonès.<\/div>",
+        "es": "<div>Estoy ayudando a las escuelas en Polonia a desarrollar sus habilidades de informática y vapor.<br><br> En Polonia, cada escuela pública tiene una impresora 3D. El tamaño de impresión es de 15 cm x 15 cm, por lo que hemos preparado archivos 3D para cada color, una copia del bloque en cada archivo.<br><br> Queremos que el proceso de impresión sea lo más accesible posible. Estoy adjuntando los archivos.<br><br> El siguiente paso importante es traducir los materiales al polaco.<\/div>",
+        "el": "<div>Βοηθάω τα σχολεία στην Πολωνία να αναπτύξουν τις ικανότητες πληροφορικής και ατμού.<br><br> Στην Πολωνία, κάθε δημόσιο σχολείο έχει 3D εκτυπωτή. Το μέγεθος εκτύπωσης είναι 15 cm x 15 cm, οπότε ετοιμάσαμε αρχεία 3D για κάθε χρώμα, ένα αντίγραφο του μπλοκ σε κάθε αρχείο.<br><br> Θέλουμε να κάνουμε τη διαδικασία εκτύπωσης όσο το δυνατόν πιο προσιτή. Επισυνάχω τα αρχεία.<br><br> Το επόμενο σημαντικό βήμα είναι να μεταφράσετε υλικά σε γυαλιστερό.<\/div>"
+    },
+    "<div><strong>DESCRIPTION<\/strong><\/div><div>I am helping schools in Poland develop their Computer Science and STEAM skills. In Poland, every public school has a 3D printer. The print size is 15 cm x 15 cm, so we've prepared 3D files for each color, one copy of the block in each file.<br>We want to make the printing process as accessible as possible. I'm attaching the files.<br>The next important step is to translate materials into Polish.<\/div><div><br><\/div><div><strong>NOTES &amp; CREDITS<\/strong><\/div><div>Krzysztof Jaworski<\/div>": {
+        "ca": "<div><strong>Descripció<\/strong><\/div><div> Estic ajudant les escoles de Polònia a desenvolupar les seves competències informàtiques i de vapor. A Polònia, cada escola pública té una impressora 3D. La mida d’impressió és de 15 cm x 15 cm, de manera que hem preparat fitxers 3D per a cada color, una còpia del bloc de cada fitxer.<br> Volem que el procés d’impressió sigui el més accessible possible. Estic adjuntant els fitxers.<br> El següent pas important és traduir materials en polonès.<\/div><div><br><\/div><div> <strong>Notes i crèdits<\/strong><\/div><div> Krzysztof Jaworski<\/div>",
+        "en": "<div><strong>DESCRIPTION<\/strong><\/div><div>I am helping schools in Poland develop their Computer Science and STEAM skills. In Poland, every public school has a 3D printer. The print size is 15 cm x 15 cm, so we've prepared 3D files for each color, one copy of the block in each file.<br>We want to make the printing process as accessible as possible. I'm attaching the files.<br>The next important step is to translate materials into Polish.<\/div><div><br><\/div><div><strong>NOTES & CREDITS<\/strong><\/div><div>Krzysztof Jaworski<\/div>",
+        "es": "<div><strong>DESCRIPCIÓN<\/strong><\/div><div> Estoy ayudando a las escuelas en Polonia a desarrollar sus habilidades de informática y vapor. En Polonia, cada escuela pública tiene una impresora 3D. El tamaño de impresión es de 15 cm x 15 cm, por lo que hemos preparado archivos 3D para cada color, una copia del bloque en cada archivo.<br> Queremos que el proceso de impresión sea lo más accesible posible. Estoy adjuntando los archivos.<br> El siguiente paso importante es traducir los materiales al polaco.<\/div><div><br><\/div><div> <strong>Notas y créditos<\/strong><\/div><div> Krzysztof Jaworski<\/div>",
+        "el": "<div><strong>ΠΕΡΙΓΡΑΦΗ<\/strong><\/div><div> Βοηθάω τα σχολεία στην Πολωνία να αναπτύξουν τις ικανότητες πληροφορικής και ατμού. Στην Πολωνία, κάθε δημόσιο σχολείο έχει 3D εκτυπωτή. Το μέγεθος εκτύπωσης είναι 15 cm x 15 cm, οπότε ετοιμάσαμε αρχεία 3D για κάθε χρώμα, ένα αντίγραφο του μπλοκ σε κάθε αρχείο.<br> Θέλουμε να κάνουμε τη διαδικασία εκτύπωσης όσο το δυνατόν πιο προσιτή. Επισυνάχω τα αρχεία.<br> Το επόμενο σημαντικό βήμα είναι να μεταφράσετε υλικά σε γυαλιστερό.<\/div><div><br><\/div><div> <strong>Σημειώσεις & πιστώσεις<\/strong><\/div><div> Krzysztof Jaworski<\/div>"
+    },
+    "<div>🌱 What better place to do a <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/company\/scratch-jr-tactile\/\">Scratch Tactile<\/a> activity about nature than at the <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/company\/fundatia-conservation-carpathia\/\">Conservation Carpathia<\/a>’s Richita Nature Exploration and Activity Centre that facilitates free programs for children from the Făgăraș Mountains? <br><br>This past weekend, as a colaborator nature educator for Carpathia I also had the opportunity to bring the Scratch Tactile kits (which we continue to test in Romania, and soon in the Republic of Moldova, via <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/company\/krontechies\/\">Krontechies<\/a> thanks to an awesome partnership with <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/company\/sistema-thead\/\">Sistema THEAD<\/a>). ⚡️<br><br>👀 After seeing for the first time an European Bison in the wild, 15 children learned to program without screens, using physical blocks, instead of digital code. The added challenge? To program a story (even blindfolded) with characters - animals they saw during the camp, including the bisons!&nbsp;<br><br>storytelling + unplugged activities = 💙&nbsp;<br><br><\/div><div><a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/search\/results\/all\/?keywords=%23scratchtactile&amp;origin=HASH_TAG_FROM_FEED\">#ScratchTactile<\/a> <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/search\/results\/all\/?keywords=%23steam&amp;origin=HASH_TAG_FROM_FEED\">#STEAM<\/a> <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/search\/results\/all\/?keywords=%23krontechies&amp;origin=HASH_TAG_FROM_FEED\">#Krontechies<\/a><br><br><br><\/div>": {
+        "en": "<div>🌱 What better place to do a <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/company\/scratch-jr-tactile\/\">Scratch Tactile<\/a> activity about nature than at the <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/company\/fundatia-conservation-carpathia\/\">Conservation Carpathia<\/a>’s Richita Nature Exploration and Activity Centre that facilitates free programs for children from the Făgăraș Mountains? <br><br>This past weekend, as a colaborator nature educator for Carpathia I also had the opportunity to bring the Scratch Tactile kits (which we continue to test in Romania, and soon in the Republic of Moldova, via <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/company\/krontechies\/\">Krontechies<\/a> thanks to an awesome partnership with <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/company\/sistema-thead\/\">Sistema THEAD<\/a>). ⚡️<br><br>👀 After seeing for the first time an European Bison in the wild, 15 children learned to program without screens, using physical blocks, instead of digital code. The added challenge? To program a story (even blindfolded) with characters - animals they saw during the camp, including the bisons! <br><br>storytelling + unplugged activities = 💙 <br><br><\/div><div><a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/search\/results\/all\/?keywords=%23scratchtactile&origin=HASH_TAG_FROM_FEED\">#ScratchTactile<\/a> <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/search\/results\/all\/?keywords=%23steam&origin=HASH_TAG_FROM_FEED\">#STEAM<\/a> <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/search\/results\/all\/?keywords=%23krontechies&origin=HASH_TAG_FROM_FEED\">#Krontechies<\/a><br><br><br><\/div>",
+        "ca": "<div>🌱 Quin lloc millor per fer una activitat <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/company\/scratch-jr-tactile\/\">tàctil de ratllada<\/a> sobre la natura que al centre de la natura de <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/company\/fundatia-conservation-carpathia\/\">la Carpa de la conservació<\/a> de Richita Nature Exploration and Activity que facilita programes gratuïts per a nens de les muntanyes Făgăraș?<br><br> El passat cap de setmana, com a educador de la Nature Colaborator per a Carpathia, també vaig tenir l’oportunitat de portar els kits tàctils de ratllat (que continuem provant a Romania i aviat a la República de Moldàvia, a través de <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/company\/krontechies\/\">Krontechies<\/a> gràcies a una impressionant col·laboració amb <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/company\/sistema-thead\/\">Sistema Thead<\/a> ). ⚡️<br><br> 👀 Després de veure per primera vegada un bisó europeu en estat salvatge, 15 nens van aprendre a programar sense pantalles, utilitzant blocs físics, en lloc del codi digital. El repte afegit? Per programar una història (fins i tot cegats) amb personatges: animals que van veure durant el campament, inclosos els Bisons!<br><br> narració de contes + activitats desconnectades = 💙<br><br><\/div><div> <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/search\/results\/all\/?keywords=%23scratchtactile&origin=HASH_TAG_FROM_FEED\">#ScratchTactile<\/a> <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/search\/results\/all\/?keywords=%23steam&origin=HASH_TAG_FROM_FEED\">#Steam<\/a> <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/search\/results\/all\/?keywords=%23krontechies&origin=HASH_TAG_FROM_FEED\">#KrontEchies<\/a><br><br><br><\/div>",
+        "es": "<div>🌱 ¿Qué mejor lugar para hacer una actividad <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/company\/scratch-jr-tactile\/\">táctil de rascar<\/a> sobre la naturaleza que en el Centro de Exploración y Actividad de la Naturaleza Richita de la <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/company\/fundatia-conservation-carpathia\/\">Conservación de Carpathia<\/a> que facilita los programas gratuitos para los niños de las montañas Făgăraș?<br><br> El pasado fin de semana, como educador de la naturaleza de Colaborator para Carpathia, también tuve la oportunidad de traer los kits táctiles scratch (que continuamos probando en Rumania, y pronto en la República de Moldavia, a través de <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/company\/krontechies\/\">Krontechies<\/a> gracias a una increíble asociación con <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/company\/sistema-thead\/\">Sistema Thead<\/a> ). ⚡️<br><br> 👀 Después de ver por primera vez un bisonte europeo en la naturaleza, 15 niños aprendieron a programar sin pantallas, usando bloques físicos, en lugar de código digital. El desafío adicional? Para programar una historia (incluso con los ojos vendados) con personajes, ¡animales que vieron durante el campamento, incluidos los Bisons!<br><br> narración de cuentos + actividades desconectadas = 💙<br><br><\/div><div> <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/search\/results\/all\/?keywords=%23scratchtactile&origin=HASH_TAG_FROM_FEED\">#ScratchTactile<\/a> <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/search\/results\/all\/?keywords=%23steam&origin=HASH_TAG_FROM_FEED\">#Steam<\/a> <a target=\"_blank\" href=\"https:\/\/www.linkedin.com\/search\/results\/all\/?keywords=%23krontechies&origin=HASH_TAG_FROM_FEED\">#KronTechies<\/a><br><br><br><\/div>"
+    },
+    "<div>creen jocs de taula inclusius<\/div>": {
+        "en": "<div>They create inclusive board games<\/div>"
+    },
+    "<div>Programa a tu personaje hacia la casilla que quieras. Después toca con un instrumento de percusión.&nbsp;<br>Material elaborado por @conlamusicaatodaspartes<\/div>": {
+        "es": "<div>Programa a tu personaje hacia la casilla que quieras. Después toca con un instrumento de percusión. <br>Material elaborado por @conlamusicaatodaspartes<\/div>",
+        "ca": "<div>Programa al vostre personatge cap al quadre que vulgueu. A continuació, toqueu un instrument de percussió.<br> Material preparat per @conlamusicaTodaspartes<\/div>",
+        "en": "<div>Program to your character towards the box you want. Then touch a percussion instrument.<br> Material prepared by @conlamusicaatodaspartes<\/div>",
+        "el": "<div>Προγραμματίστε τον χαρακτήρα σας προς το κουτί που θέλετε. Στη συνέχεια, αγγίξτε ένα όργανο κρουστών.<br> Υλικό που παρασκευάζεται από @conlamusicaatodaspartes<\/div>"
+    },
+    "<div>Programa a tu&nbsp; personaje hacia la casilla que tú quieras. Después, toca con ayuda de las campanas la secuencia.&nbsp;<br>Material elaborado por @conlamusicaatodaspartes<\/div>": {
+        "es": "<div>Programa a tu  personaje hacia la casilla que tú quieras. Después, toca con ayuda de las campanas la secuencia. <br>Material elaborado por @conlamusicaatodaspartes<\/div>"
+    },
+    "<div>Ayuda al minion a liberar a su amigo. Ten en cuenta que para liberarlo deberás coger primero la llave. Pero cuidado con las bombas o perderás la partida.&nbsp;<br>Material elaborado por @conlamusicaatodaspartes<\/div>": {
+        "es": "<div>Ayuda al minion a liberar a su amigo. Ten en cuenta que para liberarlo deberás coger primero la llave. Pero cuidado con las bombas o perderás la partida. <br>Material elaborado por @conlamusicaatodaspartes<\/div>"
+    },
+    "<div>Empareja lo que hay programado en cada secuencia con la pareja correspondiente.&nbsp;<br>Material elaborado por @conlamusicaatodaspartes<\/div>": {
+        "es": "<div>Empareja lo que hay programado en cada secuencia con la pareja correspondiente. <br>Material elaborado por @conlamusicaatodaspartes<\/div>",
+        "en": "<div>Match what is scheduled in each sequence with the corresponding couple.<br> Material prepared by @conlamusicaatodaspartes<\/div>"
+    },
+    "<div>Ayuda a la pequeña oruga glotona a conseguir su almuerzo a través de programación desconectada utilizando Scratch JR Tactile.<\/div>": {
+        "es": "<div>Ayuda a la pequeña oruga glotona a conseguir su almuerzo a través de programación desconectada utilizando Scratch JR Tactile.<\/div>"
+    },
+    "<div>Ayuda a la pequeña oruga glotona a conseguir su almuerzo a través de programación desconectada utilizando Scratch Tactile.<\/div>": {
+        "es": "<div>Ayuda a la pequeña oruga glotona a conseguir su almuerzo a través de programación desconectada utilizando Scratch Tactile.<\/div>",
+        "ca": "<div>Ajuda a Little Glottone Caterpillar a dinar a través de la programació desconnectada mitjançant Scratch Tactile.<\/div>"
+    },
+    "<div>¡Pon a prueba las habilidades de programación, lectura y depuración del código!<br>En el document adjunto encontrarás 12 secuencias y 12 dibujos.<br><br>OBJETIVO:<br>- Relaciona cada secuencia con su pareja (dibujo) correspondiente.&nbsp;<br><br>Material elaborado por @conlamusicaatodaspartes<\/div>": {
+        "es": "<div>¡Pon a prueba las habilidades de programación, lectura y depuración del código!<br>En el document adjunto encontrarás 12 secuencias y 12 dibujos.<br><br>OBJETIVO:<br>- Relaciona cada secuencia con su pareja (dibujo) correspondiente. <br><br>Material elaborado por @conlamusicaatodaspartes<\/div>",
+        "ca": "<div>Proveu les habilitats de programació, lectura i purificació del codi.<br> Al document adjunt trobareu 12 seqüències i 12 dibuixos.<br><br> Objectiu:<br> - Relacioneu cada seqüència amb el vostre soci corresponent (dibuix).<br><br> Material preparat per @conlamusicaTodaspartes<\/div>",
+        "en": "<div>Test the programming, reading and purification skills of the code!<br> In the attached document you will find 12 sequences and 12 drawings.<br><br> AIM:<br> - Relate each sequence with your corresponding partner (drawing).<br><br> Material prepared by @conlamusicaatodaspartes<\/div>",
+        "el": "<div>Δοκιμάστε τις δεξιότητες προγραμματισμού, ανάγνωσης και καθαρισμού του κώδικα!<br> Στο συνημμένο έγγραφο θα βρείτε 12 ακολουθίες και 12 σχέδια.<br><br> ΣΚΟΠΟΣ:<br> - Αναφέρετε κάθε ακολουθία με τον αντίστοιχο συνεργάτη σας (σχέδιο).<br><br> Υλικό που παρασκευάζεται από @conlamusicaatodaspartes<\/div>"
+    },
+    "<div>Programa a tu personaje hacia la casilla que tú quieras. Después, toca con ayuda de las campanas la secuencia.&nbsp;<br><br>Material elaborado por @conlamusicaatodaspartes<\/div>": {
+        "es": "<div>Programa a tu personaje hacia la casilla que tú quieras. Después, toca con ayuda de las campanas la secuencia. <br><br>Material elaborado por @conlamusicaatodaspartes<\/div>",
+        "ca": "<div>Programa al vostre personatge cap al quadre que vulgueu. A continuació, la seqüència toca amb l’ajuda de les campanes.<br><br> Material preparat per @conlamusicaTodaspartes<\/div>",
+        "en": "<div>Program to your character towards the box you want. Then, the sequence touches with the help of the bells.<br><br> Material prepared by @conlamusicaatodaspartes<\/div>",
+        "el": "<div>Προγραμματίστε τον χαρακτήρα σας προς το κουτί που θέλετε. Στη συνέχεια, η ακολουθία αγγίζει τη βοήθεια των καμπάνων.<br><br> Υλικό που παρασκευάζεται από @conlamusicaatodaspartes<\/div>"
+    },
+    "<div>Ayuda al minion a liberar a su amigo. Ten en cuenta que para liberarlo deberás coger primero la llave. ¡Pero cuidado con las bombas o perderás la partida!&nbsp;<br><br>Material elaborado por @conlamusicaatodaspartes<\/div>": {
+        "es": "<div>Ayuda al minion a liberar a su amigo. Ten en cuenta que para liberarlo deberás coger primero la llave. ¡Pero cuidado con las bombas o perderás la partida! <br><br>Material elaborado por @conlamusicaatodaspartes<\/div>",
+        "ca": "<div>Ajudeu el minion per alliberar el vostre amic. Tingueu en compte que per alliberar -lo primer heu de prendre la clau. Però tingueu cura amb les bombes o perdreu el joc.<br><br> Material preparat per @conlamusicaTodaspartes<\/div>",
+        "en": "<div>Help the minion to free your friend. Keep in mind that to release it you must first take the key. But be careful with the bombs or you will lose the game!<br><br> Material prepared by @conlamusicaatodaspartes<\/div>",
+        "el": "<div>Βοηθήστε το minion να απελευθερώσει τον φίλο σας. Λάβετε υπόψη ότι για να το απελευθερώσετε, πρέπει πρώτα να πάρετε το κλειδί. Αλλά προσέξτε με τις βόμβες ή θα χάσετε το παιχνίδι!<br><br> Υλικό που παρασκευάζεται από @conlamusicaatodaspartes<\/div>"
+    },
+    "Cat with Wheelchair": {
+        "en": "Cat with Wheelchair",
+        "es": "Gato con silla de ruedas",
+        "ca": "Gat amb cadira de rodes",
+        "de": "Katze mit Rollstuhl",
+        "el": "Γάτα με αναπηρικό καροτσάκι",
+        "pl": "Kot z wózkiem inwalidzkim"
+    },
+    "Character creators for modeling clay": {
+        "es": "Creadores de personajes para modelar arcilla",
+        "ca": "Creadors de personatges per modelar argila",
+        "en": "Character creators for modeling clay",
+        "de": "Charakterschöpfer zum Modellieren von Ton",
+        "el": "Δημιουργοί χαρακτήρων για μοντελοποίηση πηλού",
+        "pl": "Twórcy postaci do modelowania gliny"
+    },
+    "Cat": {
+        "es": "Gato",
+        "ca": "Gat",
+        "en": "Cat",
+        "de": "Katze",
+        "el": "Γάτα",
+        "pl": "Kot"
+    },
+    "Snail": {
+        "es": "Caracol",
+        "ca": "Cargol",
+        "en": "Snail",
+        "de": "Schnecke",
+        "el": "Σαλιγκάρι",
+        "pl": "Ślimak"
+    },
+    "Cat with hearing impairment": {
+        "es": "Gato con discapacidad auditiva",
+        "ca": "Cat amb deteriorament auditiu",
+        "en": "Cat with hearing impairment",
+        "de": "Katze mit Hörbehinderung",
+        "el": "Γάτα με ακοή",
+        "pl": "Kot z upośledzeniem słuchu"
+    },
+    "Winter Cat": {
+        "es": "Gato de invierno",
+        "ca": "Gat d’hivern",
+        "en": "Winter Cat",
+        "de": "Winterkatze",
+        "el": "Χειμερινή γάτα",
+        "pl": "Zimowy kot"
+    },
+    "Purple Monster": {
+        "es": "Monstruo morado",
+        "ca": "Monstre morat",
+        "en": "Purple Monster",
+        "de": "Lila Monster",
+        "el": "Πορφυρό τέρας",
+        "pl": "Purple Monster"
+    },
+    "Cat with visual impairment": {
+        "es": "Gato con discapacidad visual",
+        "ca": "Cat amb deteriorament visual",
+        "en": "Cat with visual impairment",
+        "de": "Katze mit Sehbehinderung",
+        "el": "Γάτα με όραση",
+        "pl": "Kot z zaburzeniami wizualnymi"
+    },
+    "Butterfly": {
+        "es": "Mariposa",
+        "ca": "Papallona",
+        "en": "Butterfly",
+        "de": "Schmetterling",
+        "el": "Πεταλούδα",
+        "pl": "Motyl"
+    },
+    "Jungle": {
+        "es": "Selva",
+        "ca": "Jungla",
+        "en": "Jungle",
+        "de": "Dschungel",
+        "el": "Ζούγκλα",
+        "pl": "Dżungla"
+    },
+    "The beach": {
+        "es": "La playa",
+        "ca": "La platja",
+        "en": "The beach",
+        "de": "Der Strand",
+        "el": "Η παραλία",
+        "pl": "Plaża"
+    },
+    "Car": {
+        "es": "Auto",
+        "ca": "Cotxe",
+        "en": "Car",
+        "de": "Auto",
+        "el": "Αυτοκίνητο",
+        "pl": "Samochód"
+    },
+    "Pacman": {
+        "es": "Pacman",
+        "ca": "Pacman",
+        "en": "Pacman",
+        "de": "Pacman",
+        "el": "Πύργος",
+        "pl": "Pacman"
+    },
+    "MUSIC TIME": {
+        "es": "Tiempo de música",
+        "ca": "Temps de música",
+        "en": "MUSIC TIME",
+        "de": "Musikzeit",
+        "el": "Ώρα μουσικής",
+        "pl": "Czas muzyki"
+    },
+    "Fish": {
+        "es": "Pez",
+        "ca": "Pescar",
+        "en": "Fish",
+        "de": "Fisch",
+        "el": "Ψάρι",
+        "pl": "Ryba"
+    },
+    "Platforms Game": {
+        "es": "Juego de plataformas",
+        "ca": "Joc de plataformes",
+        "en": "Platforms Game",
+        "de": "Plattformspiel",
+        "el": "Πλατφόρμες",
+        "pl": "Gra platformy"
+    },
+    "House": {
+        "es": "Casa",
+        "ca": "Casa",
+        "en": "House",
+        "de": "Haus",
+        "el": "Σπίτι",
+        "pl": "Dom"
+    },
+    "Castle": {
+        "es": "Castillo",
+        "ca": "Castell",
+        "en": "Castle",
+        "de": "Schloss",
+        "el": "Κάστρο",
+        "pl": "Zamek"
+    },
+    "Cat with beanie": {
+        "es": "Gato con gorro",
+        "ca": "Gat amb Beanie",
+        "en": "Cat with beanie",
+        "de": "Katze mit Mütze",
+        "el": "Γάτα με beanie",
+        "pl": "Kot z czapką"
+    },
+    "Cat with dress": {
+        "es": "Gato con vestido",
+        "ca": "Gat amb vestit",
+        "en": "Cat with dress",
+        "de": "Katze mit Kleid",
+        "el": "Γάτα με φόρεμα",
+        "pl": "Kot z sukienką"
+    },
+    "Monsters": {
+        "es": "Monstruos",
+        "ca": "Monstres",
+        "en": "Monsters",
+        "de": "Monster",
+        "el": "Τέρατα",
+        "pl": "Potwory"
+    },
+    "Rutinas escolares SAAC": {
+        "es": "Rutinas escolares SAAC",
+        "ca": "SAAC School Routinas",
+        "en": "SAAC SCHOOL ROUTINAS",
+        "de": "SAAC -Schulroutinas",
+        "el": "Σχολές σχολείου SAAC",
+        "pl": "Rutyny Saac School"
+    },
+    "Numbers": {
+        "es": "Números",
+        "ca": "Números",
+        "en": "Numbers",
+        "de": "Zahlen",
+        "el": "Αριθμώ",
+        "pl": "Takty muzyczne"
+    },
+    "Space background": {
+        "es": "Fondo espacial",
+        "ca": "Fons d'espai",
+        "en": "Space background",
+        "de": "Raum Hintergrund",
+        "el": "Φόντο χώρου",
+        "pl": "Tło kosmiczne"
+    },
+    "Antiga Fàbrica Espanya Industrial - Oriol Blas & Roger Olivella": {
+        "ca": "Antiga Fàbrica Espanya Industrial - Oriol Blas i Roger Olivella",
+        "es": "Antiga Fàbrica Espanya Industrial - Oriol Blas & Roger Olivella",
+        "pl": "Antiga Fàbrica Espanya Industrial - Oriol Blas i Roger Olivella",
+        "el": "Antiga Fàbrica Espanya Industrial - Oriol Blas & Roger Olivella",
+        "en": "Antiga Fàbrica Espanya Industrial - Oriol Blas & Roger Olivella"
+    },
+    "Learning together and empathizing with blindness": {
+        "ca": "Aprendre junts i empatitzar amb ceguesa",
+        "es": "Aprender juntos y empatizar con la ceguera",
+        "pl": "Uczenie się razem i empatyzowanie z ślepotą",
+        "el": "Μαθαίνοντας μαζί και ενσυναίσθητα με τύφλωση",
+        "en": "Learning together and empathizing with blindness"
+    },
+    "Learning together and empathizing with blindness - Leslie Johnson & Erica Simone": {
+        "ca": "Aprendre junts i empatitzar amb la ceguesa: Leslie Johnson i Erica Simone",
+        "es": "Aprender juntos y empatizar con la ceguera - Leslie Johnson y Erica Simone",
+        "pl": "Uczenie się razem i empatyzowanie z ślepotą - Leslie Johnson i Erica Simone",
+        "el": "Μαθαίνοντας μαζί και συνειδητοποιώντας με την τύφλωση - Leslie Johnson & Erica Simone",
+        "en": "Learning together and empathizing with blindness - Leslie Johnson & Erica Simone"
+    },
+    "STL files for 3D printing for small printers": {
+        "ca": "Fitxers STL per a la impressió 3D per a impressores petites",
+        "es": "Archivos STL para impresión 3D para impresoras pequeñas",
+        "pl": "Pliki STL do drukowania 3D dla małych drukarek",
+        "el": "Αρχεία STL για εκτύπωση 3D για μικρούς εκτυπωτές",
+        "en": "STL files for 3D printing for small printers"
+    },
+    " STL files for 3D printing for small printers - Krzysztof Jaworski": {
+        "ca": "Fitxers STL per a la impressió 3D per a impressores petites - Krzysztof Jaworski",
+        "pl": "Pliki STL do drukowania 3D dla małych drukarek - Krzysztof Jaworski",
+        "el": "STL αρχεία για 3D εκτύπωση για μικρούς εκτυπωτές - Krzysztof Jaworski",
+        "en": "STL files for 3D printing for small printers - Krzysztof Jaworski",
+        "es": "Archivos STL para impresión 3D para impresoras pequeñas - Krzysztof Jaworski"
+    },
+    "Burguer Chef Cat (el gat cuiner) - Judit Pairet, Sara Perea, Aitana Moreno, Joan Riera": {
+        "ca": "Burguer Chef Cat (The Cuiner Gat) - Judit Parellet, Sara Perea, Aitana Moreno, Joan Riera",
+        "es": "Burguer Chef Cat (el gat cuiner) - Judit Pairet, Sara Perea, Aitana Moreno, Joan Riera",
+        "pl": "Burguer Chef Cat (The Cuiner GAT) - Judit Painet, Sara Perea, Aitana Moreno, Joan Riera",
+        "el": "Burguer Chef Cat (The Cuiner Gat) - Judit Pairet, Sara Perea, Aitana Moreno, Joan Riera",
+        "en": "Burguer Chef Cat (The Cuiner Gat) - Judit Pairet, Sara Perea, Aitana Moreno, Joan Riera"
+    },
+    " En busca del tresor pirata! - Anna Pulido, Paula Badosa i Bàrbara Gayà": {
+        "ca": "En Busca del Tresor Pirate! - Anna Pulido, Paula Badosa I Bàrbara Gayà",
+        "es": "En Busca del Tresor Pirate! - Anna Pulido, Paula Badosa I Bàrbara Gayà",
+        "pl": "En Busca del Tresor Pirate! - Anna Pulido, Paula Badosa I Bàrbara Gayà",
+        "el": "En Busca del Tresor Pirate! - Άννα Pulido, Paula Badosa I Bàrbara Gayà",
+        "en": "En Busca del Tresor Pirate! - Anna Pulido, Paula Badosa I Bàrbara Gayà"
+    },
+    "Arriba a l’illa!": {
+        "ca": "Fins a l’Illa!",
+        "es": "Arriba a l’illa!",
+        "pl": "Do L'Olla!",
+        "el": "Μέχρι το L'Illa!",
+        "en": "Up to L'Illa!"
+    },
+    " Flying learning Loops": {
+        "ca": "Bucles d’aprenentatge de vol",
+        "es": "Bucles de aprendizaje volador",
+        "pl": "Latające pętle uczenia się",
+        "el": "Βρόχοι ιπτάμενης μάθησης",
+        "en": "Flying learning Loops"
+    },
+    "Aprenem la història de l'Edat Mitjana a l'aula compartida - Susanna Tuset, Pau Nin i Marta Mulero": {
+        "ca": "Aprenem la història de l'Edat Mitjana a l'aula compartida - Susanna Tuset, Pau Nin i Marta Mulero",
+        "es": "Aprendemos la historia de la Edad Media en el aula compartida: Susanna Tuset, Pau Nin y Marta Mulero",
+        "pl": "Uczymy się historii średniowiecza w wspólnej klasie - Susanna Tuset, Pau Nin i Marta Mulero",
+        "el": "Μαθαίνουμε την ιστορία του Μεσαίωνα στην κοινή τάξη - Susanna Tuset, Pau Nin και Marta Mulero",
+        "en": "We learn the history of the Middle Ages in the Shared Classroom - Susanna Tuset, Pau Nin and Marta Mulero"
+    },
+    "Avoiding plastic. Searching healthy food - Maria Seoane": {
+        "ca": "Evitant plàstic. Buscant menjar saludable - Maria Seoane",
+        "es": "Evitar el plástico. Buscando alimentos saludables - Maria Seoane",
+        "pl": "Unikanie plastiku. Poszukiwanie zdrowej żywności - Maria Seoane",
+        "el": "Αποφεύγοντας το πλαστικό. Ψάχνοντας υγιεινά τρόφιμα - Maria Seoane",
+        "en": "Avoiding plastic. Searching healthy food - Maria Seoane"
+    },
+    "Programación con el cuento \"La pequeña oruga glotona\"": {
+        "ca": "Programació amb la història \"The Little Glotona Orourta\"",
+        "es": "Programación con el cuento \"La pequeña oruga glotona\"",
+        "pl": "Programowanie z historią „Mała Glotona Orourta”",
+        "el": "Προγραμματισμός με την ιστορία \"The Little Glotona Orourta\"",
+        "en": "Programming with the story \"The little Glotona Orourta\""
+    },
+    "ADIVINA... ¿QUÉ DIBUJO SE HA PROGRAMADO?": {
+        "ca": "Endevina ... quin dibuix s'ha programat?",
+        "es": "ADIVINA... ¿QUÉ DIBUJO SE HA PROGRAMADO?",
+        "pl": "Zgadnij ... jaki rysunek został zaplanowany?",
+        "el": "Μαντέψτε ... ποιο σχέδιο έχει προγραμματιστεί;",
+        "en": "Guess ... What drawing has been scheduled?"
+    },
+    "Programación para todos": {
+        "ca": "Programació per a tots",
+        "es": "Programación para todos",
+        "pl": "Programowanie dla wszystkich",
+        "el": "Προγραμματισμός για όλους",
+        "en": "Programming for all"
+    },
+    "NYC PS22 - Leslie Johnson, Erica Simone": {
+        "ca": "NYC PS22 - Leslie Johnson, Erica Simone",
+        "es": "NYC PS22 - Leslie Johnson, Erica Simone",
+        "pl": "NYC PS22 - Leslie Johnson, Erica Simone",
+        "el": "NYC PS22 - Leslie Johnson, Erica Simone",
+        "en": "NYC PS22 - Leslie Johnson, Erica Simone"
+    },
+    "Global Goals (UN 2030)": {
+        "ca": "Objectius globals (OW 2030)",
+        "es": "Objetivos globales (OW 2030)",
+        "pl": "Globalne cele (OW 2030)",
+        "el": "Παγκόσμιοι στόχοι (OW 2030)",
+        "en": "Global Goals (OW 2030)"
+    },
+    " Missió: recuperar l’esmorzar - Àngel Pons, Noemí Lozano i Clara Nicolàs": {
+        "ca": "Missió: recuperar l’esmorzar - Àngel Pons, Noemí Lozano i Clara Nicolàs",
+        "es": "Misión: Recuperar el desayuno - Angel Pons, Noemí Lozano y Clara Nicolàs",
+        "pl": "Misja: odzyskanie śniadania - Angel Pons, Noemí Lozano i Clara Nicolàs",
+        "el": "Αποστολή: Ανάκτηση πρωινού - Άγγελος Pons, Noemí Lozano και Clara Nicolàs",
+        "en": "Mission: Recover breakfast - Angel Pons, Noemí Lozano and Clara Nicolàs"
+    },
+    "IA para la inclusión en el aprendizaje del pensamiento computacional": {
+        "ca": "IA per a la inclusió en l’aprenentatge del pensament computacional",
+        "es": "IA para la inclusión en el aprendizaje del pensamiento computacional",
+        "pl": "AI do włączenia do uczenia się myślenia obliczeniowego",
+        "el": "AI για συμπερίληψη στην εκμάθηση υπολογιστικής σκέψης",
+        "en": "AI for inclusion in learning computational thinking"
+    },
+    "Sonic game - Montserrat Abelló Barcelona Public Library": {
+        "ca": "Sonic Game - Biblioteca pública de Montserrat Abelló Barcelona",
+        "es": "Sonic game - Montserrat Abelló Barcelona Public Library",
+        "pl": "Sonic Game - Montserrat Abelló Barcelona Biblioteka publiczna",
+        "el": "Sonic Game - Montserrat Abelló Barcelona Public Library",
+        "en": "Sonic Game - Montserrat Abelló Barcelona Public Library"
+    },
+    "The Car Park (Aparcament) ": {
+        "ca": "El parc (parc)",
+        "es": "The Car Park (Aparcament)",
+        "pl": "Parking (park)",
+        "el": "Ο χώρος στάθμευσης (πάρκο)",
+        "en": "The Car Park (PARK)"
+    },
+    "Cagatió per Nadal - Juan A Carrillo i Adrià": {
+        "ca": "Cagatió per Nadal - Juan A Carrillo i Adrià",
+        "es": "Cagación para Navidad - Juan en Carrillo y Hardrà",
+        "pl": "Kandacja na Boże Narodzenie - Juan w Carrillo i Hardrà",
+        "el": "Παραλαβή για τα Χριστούγεννα - Χουάν στο Carrillo και Hardrà",
+        "en": "CAGATION FOR CHRISTMAS - JUAN IN CARRILLO AND HARDAN"
+    },
+    "Sailboat": {
+        "ca": "Vaixell de vela",
+        "es": "Velero",
+        "en": "Sailboat"
+    },
+    "<div><strong>PRUEBA<br><br><\/strong>esto es una prueba<strong><br><\/strong><em>entiendes?<\/em><\/div>": {
+        "es": "<div><strong>PRUEBA<br><br><\/strong>esto es una prueba<strong><br><\/strong><em>entiendes?<\/em><\/div>",
+        "ca": "<div><strong>Proba<br><br><\/strong> Aquesta és una prova<strong><br><\/strong> <em>Ho entens?<\/em><\/div>"
+    },
+    "si": {
+        "es": "y",
+        "ca": "i"
+    },
+    "Activity about nature at the Conservation Carpathia’s Richita Nature Exploration and Activity Centre": {
+        "ca": "Activitat sobre la natura al Centre d’exploració i activitat de la natura de Richita de la conservació",
+        "en": "Activity about nature at the Conservation Carpathia’s Richita Nature Exploration and Activity Centre"
+    },
+    "Floral art": {
+        "es": "Arte floral",
+        "ca": "Art floral",
+        "pl": "Sztuka kwiatowa",
+        "el": "Λουλουδάτη τέχνη",
+        "en": "Floral art"
+    },
+    "City with buildings": {
+        "es": "Ciudad con edificios",
+        "ca": "Ciutat amb edificis",
+        "pl": "Miasto z budynkami",
+        "el": "Πόλη με κτίρια",
+        "en": "City with buildings"
+    },
+    "ROBÓTICA MUSICAL": {
+        "es": "ROBÓTICA MUSICAL",
+        "ca": "Robòtica musical",
+        "pl": "Robotyka muzyczna",
+        "el": "Μουσική ρομποτική",
+        "en": "Musical robotics"
+    },
+    "¡ A TOCAR!": {
+        "es": "¡ A TOCAR!",
+        "ca": "Jugar!",
+        "pl": "Grać!",
+        "el": "Για να παίξετε!",
+        "en": "To play!"
+    },
+    "MINIONS": {
+        "es": "Secuaces",
+        "ca": "Minions",
+        "pl": "Stwory",
+        "el": "Αδυναμία",
+        "en": "MINIONS"
+    },
+    "Cuento: \"La coneja blanca\"": {
+        "es": "Cuento: \"La coneja blanca\"",
+        "ca": "Història: \"El conill blanc\"",
+        "pl": "Historia: „Biały królik”",
+        "el": "Ιστορία: \"Το Λευκό Κουνέλι\"",
+        "en": "Story: \"The white rabbit\""
+    },
+    "Saint George (Sant Jordi)": {
+        "es": "San Jorge (Sant Jordi)",
+        "ca": "Saint George (Sant Jordi)",
+        "pl": "Saint George (Sant Jordi)",
+        "el": "Άγιος Γιώργος (Sant Jordi)",
+        "en": "Saint George (Sant Jordi)"
+    },
+    "Character with dress 1": {
+        "es": "Personaje con vestido 1",
+        "ca": "Personatge amb vestit 1",
+        "pl": "Postać z sukienką 1",
+        "el": "Χαρακτήρας με φόρεμα 1",
+        "en": "Character with dress 1"
+    },
+    "Circle friends": {
+        "es": "Amigos de círculo",
+        "ca": "Cercle amics",
+        "pl": "Przyjaciele koła",
+        "el": "Κύκλος φίλων",
+        "en": "Circle friends"
+    },
+    "Blue Character 2": {
+        "es": "Personaje azul 2",
+        "ca": "Personatge blau 2",
+        "pl": "Niebieski znak 2",
+        "el": "Μπλε χαρακτήρας 2",
+        "en": "Blue Character 2"
+    },
+    "Blue Character 1": {
+        "es": "Personaje azul 1",
+        "ca": "Personatge blau 1",
+        "pl": "Niebieski znak 1",
+        "el": "Μπλε χαρακτήρας 1",
+        "en": "Blue Character 1"
+    },
+    "Yellow Character 2": {
+        "es": "Personaje amarillo 2",
+        "ca": "Personatge groc 2",
+        "pl": "Żółty znak 2",
+        "el": "Κίτρινος χαρακτήρας 2",
+        "en": "Yellow Character 2"
+    },
+    "Yellow Character 1": {
+        "es": "Personaje amarillo 1",
+        "ca": "Personatge groc 1",
+        "pl": "Żółty znak 1",
+        "el": "Κίτρινο χαρακτήρα 1",
+        "en": "Yellow Character 1"
+    },
+    "Book": {
+        "es": "Libro",
+        "ca": "Llibre",
+        "pl": "Książka",
+        "el": "Βιβλίο",
+        "en": "Book"
+    },
+    "Square Friends": {
+        "es": "Amigos cuadrados",
+        "ca": "Amics quadrats",
+        "pl": "Square Friends",
+        "el": "Τετραγωνικοί φίλοι",
+        "en": "Square Friends"
+    },
+    "The cat and the mouse": {
+        "es": "El gato y el mouse",
+        "ca": "El gat i el ratolí",
+        "pl": "Kot i mysz",
+        "el": "Η γάτα και το ποντίκι",
+        "en": "The cat and the mouse"
+    },
+    "Desert": {
+        "es": "Desierto",
+        "ca": "Abandonar",
+        "pl": "Pustynia",
+        "el": "Ερημος",
+        "en": "Desert"
+    },
+    "Under the sea (cleaning the sea)": {
+        "es": "Debajo del mar (limpiando el mar)",
+        "ca": "Sota el mar (netejar el mar)",
+        "pl": "Pod morzem (czyszczenie morza)",
+        "el": "Κάτω από τη θάλασσα (καθαρισμός της θάλασσας)",
+        "en": "Under the sea (cleaning the sea)"
+    },
+    "Tic Tac Toe (3 en línia)": {
+        "es": "TIC TAC TOE (3 en línea)",
+        "ca": "Tic Tac Toe (3 en línia)",
+        "pl": "ICT TAC TOE (3 online)",
+        "el": "ΤΠΕ Tac Toe (3 online)",
+        "en": "ICT TAC TOE (3 online)"
+    },
+    "Space": {
+        "es": "Espacio",
+        "ca": "Espai",
+        "pl": "Przestrzeń",
+        "el": "Χώρος",
+        "en": "Space"
+    },
+    "Space with asteroids": {
+        "es": "Espacio con asteroides",
+        "ca": "Espai amb asteroides",
+        "pl": "Przestrzeń z asteroidami",
+        "el": "Χώρος με αστεροειδείς",
+        "en": "Space with asteroids"
+    },
+    "City (blank)": {
+        "es": "Ciudad (en blanco)",
+        "ca": "Ciutat (en blanc)",
+        "pl": "Miasto (puste)",
+        "el": "Πόλη (κενό)",
+        "en": "City (blank)"
+    },
+    "Connect 4": {
+        "es": "Conectar 4",
+        "ca": "Connecta 4",
+        "en": "Connect 4",
+        "pl": "Połącz 4",
+        "el": "Συνδέστε 4"
+    },
+    "3x4 Scenario": {
+        "es": "Escenario 3x4",
+        "ca": "Escenari 3x4",
+        "en": "3x4 Scenario",
+        "pl": "Scenariusz 3x4",
+        "el": "3x4 σενάριο"
+    },
+    "4x6 Scenario": {
+        "es": "Escenario 4x6",
+        "ca": "Escenari 4x6",
+        "en": "4x6 Scenario",
+        "pl": "Scenariusz 4x6",
+        "el": "4x6 σενάριο"
+    },
+    "Letters of the alphabet": {
+        "es": "Cartas del alfabeto",
+        "ca": "Lletres de l’alfabet",
+        "en": "Letters of the alphabet",
+        "pl": "Litery alfabetu",
+        "el": "Γράμματα του αλφαβήτου"
+    },
+    "La granja": {
+        "es": "La granja",
+        "ca": "La finca",
+        "en": "The farm",
+        "pl": "Farma",
+        "el": "Το αγρόκτημα"
+    },
+    "Armchair": {
+        "es": "Sillón",
+        "ca": "Cadira",
+        "pl": "Fotel",
+        "el": "Πολυθρόνα",
+        "en": "Armchair"
+    },
+    "Mushroom": {
+        "es": "Champiñón",
+        "ca": "Volet",
+        "en": "Mushroom"
+    },
+    "Building": {
+        "es": "Edificio",
+        "ca": "Edifici",
+        "en": "Building"
+    },
+    "Watermelon": {
+        "es": "Sandía",
+        "ca": "Síndria",
+        "en": "Watermelon"
+    },
+    "Beach ball": {
+        "es": "Pelota de playa",
+        "ca": "Pilota de platja",
+        "en": "Beach ball"
+    },
+    "Flower": {
+        "es": "Flor",
+        "ca": "Flor",
+        "en": "Flower"
+    },
+    "Trees": {
+        "es": "Árboles",
+        "ca": "Arbres",
+        "en": "Trees"
+    },
+    "<div>Ayuda a la pequeña oruga glotona a conseguir su almuerzo a través de programación desconectada utilizando Scratch Jr Tactile.<br>Comparte tu actividad si la llevas al aula: @teacherstrawberry :)<\/div>": {
+        "es": "<div>Ayuda a la pequeña oruga glotona a conseguir su almuerzo a través de programación desconectada utilizando Scratch Jr Tactile.<br>Comparte tu actividad si la llevas al aula: @teacherstrawberry :)<\/div>",
+        "ca": "<div>Ajuda a Little Glottone Caterpillar a dinar a través de la programació desconnectada mitjançant Scratch Jr Tactile.<br> Compartiu la vostra activitat si la porteu a l’aula: @teachersTrawberry :)<\/div>"
+    },
+    "Sandwich": {
+        "ca": "Sandvitx",
+        "en": "Sandwich",
+        "es": "Sándwich",
+        "pl": "Kanapka"
+    },
+    "Feed the animals": {
+        "ca": "Alimentar els animals",
+        "en": "Feed the animals",
+        "pl": "Karmić zwierzęta",
+        "es": "Alimentar a los animales"
+    },
+    "Balls": {
+        "ca": "Boles",
+        "en": "Balls",
+        "pl": "Piłki",
+        "es": "Bolas",
+        "el": "Μπάλες"
+    },
+    "Sports": {
+        "ca": "Esport",
+        "en": "Sports",
+        "pl": "Lekkoatletyka",
+        "es": "Deportes",
+        "el": "Αθλητισμός"
+    },
+    "Visit Barcelona": {
+        "ca": "Visiteu Barcelona",
+        "en": "Visit Barcelona",
+        "pl": "Odwiedź Barcelonę",
+        "es": "Visitar Barcelona",
+        "el": "Επισκεφθείτε τη Βαρκελώνη"
+    },
+    "Cooking Pasta": {
+        "ca": "Pasta de cuina",
+        "en": "Cooking Pasta",
+        "es": "Pasta de cocción",
+        "pl": "Gotowanie makaronu",
+        "el": "Ζυμαρικά μαγειρέματος"
+    },
+    "The withe rabbit": {
+        "ca": "El conill amb",
+        "en": "The withe rabbit",
+        "pl": "Z królikiem wita",
+        "es": "El conejo con",
+        "el": "Το κουνέλι"
+    },
+    "Sant Jordi": {
+        "ca": "Sant Jordi",
+        "en": "St. George",
+        "pl": "St. George",
+        "es": "St. George",
+        "el": "Άγιος Γεώργος"
+    },
+    "Treasure Hunt": {
+        "ca": "Caça del tresor",
+        "en": "Treasure Hunt",
+        "pl": "Polowanie skarbów",
+        "es": "Búsqueda del tesoro",
+        "el": "Κυνήγι θησαυρού"
+    },
+    "Camping": {
+        "ca": "Acampar",
+        "en": "Camping",
+        "pl": "Kemping",
+        "es": "Cámping",
+        "el": "Κατασκήνωση"
+    },
+    " Recerca del tresor (Treasure hunt) - Marina Samaniego, Nerea Nocete i Anna Cañete": {
+        "en": "Recerca del Tresor (Treasure Hunt) - Marina Samaniego, Nerea Nocee I Anna Cañete",
+        "ca": "ReceCa del Tresor (Hunt Treasure) - Marina Samaniego, Nerea Nocee I Anna Cañete",
+        "es": "Recerca del tresor (Treasure hunt) - Marina Samaniego, Nerea Nocete i Anna Cañete"
+    },
+    "<div>Ayuda a la pequeña oruga glotona a conseguir su almuerzo a través de programación desconectada utilizando Scratch Tactile.<br><br>Comparte tu actividad si la llevas al aula: @teacherstrawberry :)<\/div>": {
+        "es": "<div>Ayuda a la pequeña oruga glotona a conseguir su almuerzo a través de programación desconectada utilizando Scratch Tactile.<br><br>Comparte tu actividad si la llevas al aula: @teacherstrawberry :)<\/div>",
+        "ca": "<div>Ajuda a Little Glottone Caterpillar a dinar a través de la programació desconnectada mitjançant Scratch Tactile.<br><br> Compartiu la vostra activitat si la porteu a l’aula: @teachersTrawberry :)<\/div>",
+        "en": "<div>It helps little glottone caterpillar to get their lunch through disconnected programming using Scratch Tactile.<br><br> Share your activity if you take it to the classroom: @teacherstrawberry :)<\/div>",
+        "el": "<div>Βοηθά το Little Glottone Caterpillar να πάρει το μεσημεριανό γεύμα τους μέσω αποσυνδεδεμένου προγραμματισμού χρησιμοποιώντας το Scratch Tactile.<br><br> Μοιραστείτε τη δραστηριότητά σας εάν την πάρετε στην τάξη: @TeacherStrawberry :)<\/div>"
+    },
+    "<div><strong>PRUEBA<\/strong><\/div>": {
+        "ca": "<div><strong>Proba<\/strong><\/div>",
+        "en": "<div><strong>PROOF<\/strong><\/div>"
+    },
+    "prueba -- confirma si te ha llegado con el asunto diferente": {
+        "ca": "Proveu - Confirmeu si us heu arribat amb la qüestió diferent",
+        "en": "Try - confirm if you have reached you with the different matter"
+    },
+    "Prueba": {
+        "ca": "Proba",
+        "en": "Proof"
+    },
+    "2D Blocks": {
+        "en": "2D Blocks"
+    },
+    "test": {
+        "en": "test",
+        "ca": "provar",
+        "es": "prueba"
+    },
+    "<div>4x6 board<br><br>TIP:<br>* Make a copy and edit or personalize this background!<br>How? Open the link (canva) &gt; File &gt;&nbsp; Copy<\/div>": {
+        "en": "<div>4x6 board<br><br>TIP:<br>* Make a copy and edit or personalize this background!<br>How? Open the link (canva) > File >  Copy<\/div>",
+        "ca": "<div>Junta 4x6<br><br> Consell:<br> * Feu una còpia i editeu o personalitzeu aquest fons.<br> Com? Obriu l'enllaç (Canva)> Fitxer> Copia<\/div>",
+        "es": "<div>4x6 tablero<br><br> CONSEJO:<br> * ¡Haga una copia y edite o personalice estos antecedentes!<br> ¿Cómo? Abra el enlace (Canva)> Archivo> Copiar<\/div>",
+        "pl": "<div>Board 4x6<br><br> WSKAZÓWKA:<br> * Zrób kopię i edytuj lub spersonalizuj to tło!<br> Jak? Otwórz link (canva)> plik> kopiuj<\/div>",
+        "el": "<div>Πίνακας 4x6<br><br> ΑΚΡΟ:<br> * Δημιουργήστε ένα αντίγραφο και επεξεργαστείτε ή εξατομικεύστε αυτό το υπόβαθρο!<br> Πως; Ανοίξτε το σύνδεσμο (CANVA)> Αρχείο> Αντιγραφή<\/div>"
+    },
+    "Burguer Chef Cat (el gat cuiner)": {
+        "en": "Burguer Chef Cat (The Cooking Cat)",
+        "ca": "Burguer Chef Cat (el gat cuiner)",
+        "es": "Burguer Chef Cat (el gato de cocina)",
+        "el": "Burguer Chef Cat (η γάτα μαγειρικής)",
+        "pl": "Burguer Chef Cat (The Cooking Cat)"
+    },
+    "<div><strong>DESCRIPTION<\/strong><\/div><div>Hem creat un recorregut pel mar en el qual el vaixell ha d’arribar a l’illa a la recerca d'un tresor.<br>En aquest recorregut hi ha diferents obstacles com un tauró, una roca i meduses.<br>El personatge (vaixell) ha d’aconseguir trobar el camí sense obstacles per arribar a l’illa on hi ha el tresor.<\/div><div>​<\/div><div><strong>NOTES &amp; CREDITS<\/strong><\/div><div>Som alumnes de magisteri de la Universitat de Girona: Anna Pulido, Paula Badosa i Bàrbara Gayà.<\/div>": {
+        "en": "<div><strong>Description<\/strong><\/div><div> We have created a journey through the sea where the boat must reach the island in search of a treasure.<br> On this route there are different obstacles such as a shark, a rock and jellyfish.<br> The character (boat) must find the path without obstacles to reach the island where the treasure is located.<\/div><div>​<\/div><div> <strong>Notes & credits<\/strong><\/div><div> We are teaching students of the University of Girona: Anna Pulido, Paula Badosa and Barbara Gayà.<\/div>"
+    },
+    " En busca del tresor pirata!": {
+        "en": "In search of the three pirate!"
+    },
+    "Arriba a la illa!": {
+        "en": "Up to the illa!"
+    },
+    "Pots arribar a l'illa?": {
+        "en": "Can you get to the island?",
+        "ca": "Pots arribar a l'illa?",
+        "es": "¿Puedes llegar a la isla?",
+        "el": "Μπορείτε να φτάσετε στο νησί;",
+        "pl": "Czy możesz dostać się na wyspę?"
+    },
+    "<div>Hem creat un recorregut pel mar en el qual el vaixell ha d’arribar a l’illa a la recerca d'un tresor.<br>En aquest recorregut hi ha diferents obstacles com un tauró, una roca i meduses.<br>El personatge (vaixell) ha d’aconseguir trobar el camí sense obstacles per arribar a l’illa on hi ha el tresor.<\/div><div>​<\/div><div><strong>NOTES &amp; CREDITS<\/strong><\/div><div>Som alumnes de magisteri de la Universitat de Girona: Anna Pulido, Paula Badosa i Bàrbara Gayà.<\/div>": {
+        "en": "<div>We have created a journey through the sea where the boat must reach the island in search of a treasure.<br> On this route there are different obstacles such as a shark, a rock and jellyfish.<br> The character (boat) must find the path without obstacles to reach the island where the treasure is located.<\/div><div>​<\/div><div> <strong>Notes & credits<\/strong><\/div><div> We are teaching students of the University of Girona: Anna Pulido, Paula Badosa and Barbara Gayà.<\/div>",
+        "ca": "<div>Hem creat un recorregut pel mar en el qual el vaixell ha d’arribar a l’illa a la recerca d'un tresor.<br>En aquest recorregut hi ha diferents obstacles com un tauró, una roca i meduses.<br>El personatge (vaixell) ha d’aconseguir trobar el camí sense obstacles per arribar a l’illa on hi ha el tresor.<\/div><div>​<\/div><div><strong>NOTES & CREDITS<\/strong><\/div><div>Som alumnes de magisteri de la Universitat de Girona: Anna Pulido, Paula Badosa i Bàrbara Gayà.<\/div>",
+        "es": "<div>Hemos creado un viaje por el mar donde el bote debe llegar a la isla en busca de un tesoro.<br> En esta ruta hay diferentes obstáculos, como un tiburón, una roca y medusas.<br> El personaje (barco) debe encontrar el camino sin obstáculos para llegar a la isla donde se encuentra el tesoro.<\/div><div>​<\/div><div> <strong>Notas y créditos<\/strong><\/div><div> Estamos enseñando estudiantes de la Universidad de Girona: Anna Pulido, Paula Badosa y Barbara Gayà.<\/div>"
+    },
+    "In search of the pirate treasure!": {
+        "en": "In search of the pirate treasure!",
+        "ca": "A la recerca del tresor pirata!",
+        "es": "En busca del tesoro pirata!",
+        "el": "Σε αναζήτηση του πειρατικού θησαυρού!",
+        "pl": "W poszukiwaniu pirackiego skarbu!"
+    },
+    "<div>Gat d'Scratch Tactile Superheroi de Marvel<\/div>": {
+        "ca": "<div>Gat D'Tratch Tactile Superheroi de Marvel<\/div>",
+        "en": "<div>Gat D'Cratch Tactile Superheroi de Marvel<\/div>"
+    },
+    "DAREDEVIL GAT": {
+        "ca": "Daredevil Gat",
+        "en": "Daredevil gat"
+    },
+    "<div>Gat d'Scratch Charles Xavier (Professor X) Superheroi Marvel<\/div>": {
+        "ca": "<div>Gat D'Scraz Charles Xavier (professor X) Superheroi Marvel<\/div>",
+        "en": "<div>Gat d'Scratch Charles Xavier (Professor X) Superheroi Marvel<\/div>"
+    },
+    "CHARLES XAVIER GAT": {
+        "ca": "Charles Xavier Gat",
+        "en": "CHARLES XAVIER GAT"
+    },
+    "<div>Gat de Scratch Tactile - Superheroi de Marvel<\/div>": {
+        "en": "<div>Gat by Scratch Tactile - Marvel Superheroi<\/div>"
+    },
+    "<div>Gat Scratch Tactile - Superheroi de Marvel<\/div>": {
+        "en": "<div>Gat Scratch Tactile - Marvel Superheroi<\/div>",
+        "ca": "<div>Gat Scratch Tactile - Marvel Superheroi<\/div>",
+        "el": "<div>Gat Scratch Tactile - Marvel Superheroi<\/div>"
+    },
+    "DAREDEVIL CAT": {
+        "en": "DAREDEVIL CAT",
+        "es": "Gato temerario",
+        "ca": "Daredevil Cat",
+        "pl": "Daredevil Cat",
+        "el": "Daredevil Cat"
+    },
+    "<div>Gat Scratch Charles Xavier (Professor X) - Superheroi Marvel<\/div>": {
+        "en": "<div>Gat Scratch Charles Xavier (Professor X) - Superheroi Marvel<\/div>",
+        "ca": "<div>Gat Scratch Charles Xavier (professor X) - Superheroi Marvel<\/div>",
+        "el": "<div>GAT Scratch Charles Xavier (Καθηγητής X) - Superheroi Marvel<\/div>"
+    },
+    "CHARLES XAVIER CAT": {
+        "en": "CHARLES XAVIER CAT",
+        "es": "Charles Xavier Cat",
+        "ca": "Charles Xavier Cat",
+        "pl": "Charles Xavier Cat",
+        "el": "Charles Xavier Cat"
+    },
+    "<div>Este es el primer personaje de la serie de aventuras Veil of Cinders, el personaje se llama Cind y vivirá aventuras dentro de los diferentes mapas que se irán creando para darle vida a la gamificación. Todos los retos son situaciones en las que los estudiantes deben programar para que Cind vaya realizando las pruebas y obteniendo objetos para resolver el reto final.<\/div>": {
+        "es": "<div>Este es el primer personaje de la serie de aventuras Veil of Cinders, el personaje se llama Cind y vivirá aventuras dentro de los diferentes mapas que se irán creando para darle vida a la gamificación. Todos los retos son situaciones en las que los estudiantes deben programar para que Cind vaya realizando las pruebas y obteniendo objetos para resolver el reto final.<\/div>",
+        "en": "<div>This is the first character of the Veil of Cinders adventure series, the character is called CND and will live adventures within the different maps that will be created to give life to gamification. All challenges are situations in which students must program so that CND is doing the tests and obtaining objects to solve the final challenge.<\/div>",
+        "ca": "<div>Aquest és el primer personatge de la sèrie Veil of Cinders Adventure, el personatge es diu CND i viurà aventures dins dels diferents mapes que es crearan per donar vida a la gamificació. Tots els reptes són situacions en què els estudiants han de programar perquè la CND faci les proves i obtingui objectes per resoldre el repte final.<\/div>",
+        "el": "<div>Αυτός είναι ο πρώτος χαρακτήρας της σειράς Adventure του Veil of Cinders, ο χαρακτήρας ονομάζεται CND και θα ζήσει περιπέτειες μέσα στους διάφορους χάρτες που θα δημιουργηθούν για να δώσουν τη ζωή στο gamification. Όλες οι προκλήσεις είναι καταστάσεις στις οποίες οι μαθητές πρέπει να προγραμματίσουν έτσι ώστε το CND να κάνει τις δοκιμές και να αποκτήσει αντικείμενα για την επίλυση της τελικής πρόκλησης.<\/div>"
+    },
+    "Veil of Cinders": {
+        "es": "Velo de Cinders",
+        "en": "Veil of Cinders",
+        "ca": "Veil of Cinders",
+        "el": "Πέπλο από καρύδια"
+    },
+    "<div>fghjkl<\/div>": {
+        "en": "<div>fghjkl<\/div>"
+    },
+    "PROYEFCTO PRUEBA": {
+        "en": "Proyefcto test"
+    },
+    "<div>By <strong>Tània Estrada<\/strong><\/div><div><br><\/div><div><br><\/div><div><br><\/div>": {
+        "es": "<div>Por <strong>Tania Estrada<\/strong><\/div><div><br><\/div><div><br><\/div><div><br><\/div>"
+    },
+    "Fenec": {
+        "es": "FEC",
+        "ca": "FEC",
+        "en": "FEC"
+    },
+    "Fennec": {
+        "es": "Fennec"
+    },
+    "<div>CREDITS:<br>Created by Scratch Tactile team.<\/div><div><br><\/div>": {
+        "es": "<div>Créditos:<br> Creado por Scratch Tactile Team.<\/div><div><br><\/div>"
+    },
+    "<div>This is the blind cat!<br><br><br>TIPS:<br>- If you want to print in 4 colors, you can drag an drop the separated files by colors to your slicer (i.e. BambuStudio) and you will have it ready to print in four colors.<br><br><\/div>": {
+        "es": "<div>¡Este es el gato ciego!<br><br><br> CONSEJOS:<br> - Si desea imprimir en 4 colores, puede arrastrar una parte de los archivos separados por colores a su cortadora (es decir, Bambustudio) y lo tendrá listo para imprimir en cuatro colores.<br><br><\/div>"
+    }
+}
